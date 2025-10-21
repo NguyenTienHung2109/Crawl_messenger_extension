@@ -1,0 +1,5234 @@
+[
+  {
+    "timestamp": "2025-10-13T07:36:35.101Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:85269403-3b3e-4734-b738-55f22bc13d98, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760340991010
+    },
+    "receivedAt": "2025-10-13T14:36:34.845295"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:35.259Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340990573
+    },
+    "receivedAt": "2025-10-13T14:36:34.976158"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:35.280Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340991064
+    },
+    "receivedAt": "2025-10-13T14:36:35.007335"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:35.409Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:0bf073fc-55ea-45e9-b358-d2441ef376fe, messageId: 20251013073630456#42YZhpNpHlLJ8CgwU7ttKO ",
+      "timestamp": 1760340990912
+    },
+    "receivedAt": "2025-10-13T14:36:35.156046"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:35.426Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340991064
+    },
+    "receivedAt": "2025-10-13T14:36:35.171570"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:35.593Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340991076
+    },
+    "receivedAt": "2025-10-13T14:36:35.328444"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:35.594Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:0bf073fc-55ea-45e9-b358-d2441ef376fe",
+        "clientRequestDate": 1760340990255,
+        "messageId": "20251013073630456#42YZhpNpHlLJ8CgwU7ttKO",
+        "createAt": "2025-10-13T07:36:30.456Z"
+      },
+      "timestamp": 1760340990913
+    },
+    "receivedAt": "2025-10-13T14:36:35.681230"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:35.923Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340994946
+    },
+    "receivedAt": "2025-10-13T14:36:35.686307"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:36.067Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340991090
+    },
+    "receivedAt": "2025-10-13T14:36:35.844060"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:36.114Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340990926
+    },
+    "receivedAt": "2025-10-13T14:36:35.844060"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:36.114Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340994955
+    },
+    "receivedAt": "2025-10-13T14:36:35.862203"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:36.276Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340991097
+    },
+    "receivedAt": "2025-10-13T14:36:36.011504"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:36.277Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340995029
+    },
+    "receivedAt": "2025-10-13T14:36:36.016746"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:36.443Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Received_Message,{\"eventType\":\"chatroom.message\",\"traceId\":\"1-68ecabfe-10cfb7410383685c2d90c1f8\",\"eventData\":{\"clientRequestId\":\"new:GEDTC-183058:0bf073fc-55ea-45e9-b358-d2441ef376fe\",\"clientRequestDate\":\"2025-10-13T07:36:30.255Z\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"messageId\":\"20251013073630456#42YZhpNpHlLJ8CgwU7ttKO\",\"createAt\":\"2025-10-13T07:36:30.456Z\",\"messageType\":\"text/plain\",\"message\":\"24\",\"attachments\":[],\"isBot\":",
+      "timestamp": 1760340991151
+    },
+    "receivedAt": "2025-10-13T14:36:36.180885"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:36.443Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340995058
+    },
+    "receivedAt": "2025-10-13T14:36:36.196499"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:36.620Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340995199
+    },
+    "receivedAt": "2025-10-13T14:36:36.344891"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:36.620Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340991161
+    },
+    "receivedAt": "2025-10-13T14:36:36.359746"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:36.777Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340995382
+    },
+    "receivedAt": "2025-10-13T14:36:36.876315"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:37.309Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Received_Message,{\"eventType\":\"chatroom.message\",\"traceId\":\"1-68ecac03-10db2ac1388aae401c9d30cd\",\"eventData\":{\"clientRequestId\":\"new:GEDTC-183058:834502a3-40df-43b4-8f5d-484a05f83013\",\"clientRequestDate\":\"2025-10-13T07:36:34.894Z\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"messageId\":\"20251013073635340#4ZvqkwFWnyEISekNTtrzmS\",\"createAt\":\"2025-10-13T07:36:35.340Z\",\"messageType\":\"text/plain\",\"message\":\"24\",\"attachments\":[],\"isBot\":",
+      "timestamp": 1760340995836
+    },
+    "receivedAt": "2025-10-13T14:36:37.047211"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:37.476Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340995842
+    },
+    "receivedAt": "2025-10-13T14:36:37.231075"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:37.643Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:834502a3-40df-43b4-8f5d-484a05f83013, messageId: 20251013073635340#4ZvqkwFWnyEISekNTtrzmS ",
+      "timestamp": 1760340995845
+    },
+    "receivedAt": "2025-10-13T14:36:37.371798"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:36.778Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340991189
+    },
+    "receivedAt": "2025-10-13T14:36:37.520369"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:37.793Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:834502a3-40df-43b4-8f5d-484a05f83013",
+        "clientRequestDate": 1760340994894,
+        "messageId": "20251013073635340#4ZvqkwFWnyEISekNTtrzmS",
+        "createAt": "2025-10-13T07:36:35.340Z"
+      },
+      "timestamp": 1760340995846
+    },
+    "receivedAt": "2025-10-13T14:36:37.535988"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:37.942Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340991208
+    },
+    "receivedAt": "2025-10-13T14:36:37.689303"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:37.976Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340995853
+    },
+    "receivedAt": "2025-10-13T14:36:37.741770"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:38.129Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340991216
+    },
+    "receivedAt": "2025-10-13T14:36:37.953066"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:38.162Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340995865
+    },
+    "receivedAt": "2025-10-13T14:36:37.966381"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:38.396Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340991306
+    },
+    "receivedAt": "2025-10-13T14:36:38.369949"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:38.397Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340995876
+    },
+    "receivedAt": "2025-10-13T14:36:38.381097"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:38.816Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340991334
+    },
+    "receivedAt": "2025-10-13T14:36:38.653698"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:38.817Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340995887
+    },
+    "receivedAt": "2025-10-13T14:36:38.662479"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:39.111Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:85269403-3b3e-4734-b738-55f22bc13d98, messageId: 20251013073631036#3ItMpoypO4uabYrIDpCQsZ ",
+      "timestamp": 1760340991487
+    },
+    "receivedAt": "2025-10-13T14:36:39.094056"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:39.562Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:85269403-3b3e-4734-b738-55f22bc13d98",
+        "clientRequestDate": 1760340991009,
+        "messageId": "20251013073631036#3ItMpoypO4uabYrIDpCQsZ",
+        "createAt": "2025-10-13T07:36:31.036Z"
+      },
+      "timestamp": 1760340991488
+    },
+    "receivedAt": "2025-10-13T14:36:39.636699"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:40.064Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340991502
+    },
+    "receivedAt": "2025-10-13T14:36:39.824466"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:40.292Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340995988
+    },
+    "receivedAt": "2025-10-13T14:36:40.021049"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:40.297Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Received_Message,{\"eventType\":\"chatroom.message\",\"traceId\":\"1-68ecabff-13d453e2641135102904b4ef\",\"eventData\":{\"clientRequestId\":\"new:GEDTC-183058:85269403-3b3e-4734-b738-55f22bc13d98\",\"clientRequestDate\":\"2025-10-13T07:36:31.009Z\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"messageId\":\"20251013073631036#3ItMpoypO4uabYrIDpCQsZ\",\"createAt\":\"2025-10-13T07:36:31.036Z\",\"messageType\":\"text/plain\",\"message\":\"24\",\"attachments\":[],\"isBot\":",
+      "timestamp": 1760340991536
+    },
+    "receivedAt": "2025-10-13T14:36:40.039910"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:40.472Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340991559
+    },
+    "receivedAt": "2025-10-13T14:36:40.210115"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:40.473Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "outgoing chatroom message sent:,{\"kind\":\"OutgoingMessage\",\"message\":\"24\",\"conversationId\":\"GEDTC-183058\",\"clientRequestId\":\"new:GEDTC-183058:0eec37e3-6389-4aeb-9fe9-b972df6c2c0d\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"clientRequestDate\":\"2025-10-13T07:36:36.002Z\",\"messageType\":\"text/plain\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"status\":1} ",
+      "timestamp": 1760340996002
+    },
+    "receivedAt": "2025-10-13T14:36:40.225738"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:40.627Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340991572
+    },
+    "receivedAt": "2025-10-13T14:36:40.363395"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:40.643Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:0eec37e3-6389-4aeb-9fe9-b972df6c2c0d, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760340996003
+    },
+    "receivedAt": "2025-10-13T14:36:40.420124"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:40.794Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340991666
+    },
+    "receivedAt": "2025-10-13T14:36:40.514379"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:40.830Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340996009
+    },
+    "receivedAt": "2025-10-13T14:36:40.545640"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:40.928Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341000353
+    },
+    "receivedAt": "2025-10-13T14:36:40.645517"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:40.945Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340992329
+    },
+    "receivedAt": "2025-10-13T14:36:40.661137"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:40.962Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340996039
+    },
+    "receivedAt": "2025-10-13T14:36:40.698130"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:41.072Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341000388
+    },
+    "receivedAt": "2025-10-13T14:36:40.809448"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:41.076Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "outgoing chatroom message sent:,{\"kind\":\"OutgoingMessage\",\"message\":\"24\",\"conversationId\":\"GEDTC-183058\",\"clientRequestId\":\"new:GEDTC-183058:e7e7ab28-2d2c-4850-8514-0e78568eddda\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"clientRequestDate\":\"2025-10-13T07:36:32.485Z\",\"messageType\":\"text/plain\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"status\":1} ",
+      "timestamp": 1760340992485
+    },
+    "receivedAt": "2025-10-13T14:36:40.826598"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:41.142Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340996040
+    },
+    "receivedAt": "2025-10-13T14:36:40.931626"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:41.227Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341000398
+    },
+    "receivedAt": "2025-10-13T14:36:40.962884"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:41.244Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:e7e7ab28-2d2c-4850-8514-0e78568eddda, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760340992485
+    },
+    "receivedAt": "2025-10-13T14:36:40.978508"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:41.351Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340996062
+    },
+    "receivedAt": "2025-10-13T14:36:41.077134"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:41.391Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341000524
+    },
+    "receivedAt": "2025-10-13T14:36:41.439719"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:41.394Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340992518
+    },
+    "receivedAt": "2025-10-13T14:36:41.466591"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:41.498Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340996063
+    },
+    "receivedAt": "2025-10-13T14:36:41.466591"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:41.879Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340996073
+    },
+    "receivedAt": "2025-10-13T14:36:41.628078"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:41.911Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340992519
+    },
+    "receivedAt": "2025-10-13T14:36:41.643687"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:42.049Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340996085
+    },
+    "receivedAt": "2025-10-13T14:36:41.994514"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:42.083Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340992524
+    },
+    "receivedAt": "2025-10-13T14:36:42.105682"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:42.429Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340996097
+    },
+    "receivedAt": "2025-10-13T14:36:42.154075"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:42.573Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340996140
+    },
+    "receivedAt": "2025-10-13T14:36:42.549887"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:42.963Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340996209
+    },
+    "receivedAt": "2025-10-13T14:36:42.702706"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:42.532Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340992534
+    },
+    "receivedAt": "2025-10-13T14:36:42.832573"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:43.124Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340996314
+    },
+    "receivedAt": "2025-10-13T14:36:42.863820"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:43.278Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340992540
+    },
+    "receivedAt": "2025-10-13T14:36:43.028114"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:43.281Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340996399
+    },
+    "receivedAt": "2025-10-13T14:36:43.043739"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:43.594Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340992548
+    },
+    "receivedAt": "2025-10-13T14:36:43.322104"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:43.595Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:0eec37e3-6389-4aeb-9fe9-b972df6c2c0d, messageId: 20251013073636020#YLbnzWhvSQkRGwGLknA0c ",
+      "timestamp": 1760340996468
+    },
+    "receivedAt": "2025-10-13T14:36:43.337705"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:43.764Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:0eec37e3-6389-4aeb-9fe9-b972df6c2c0d",
+        "clientRequestDate": 1760340996002,
+        "messageId": "20251013073636020#YLbnzWhvSQkRGwGLknA0c",
+        "createAt": "2025-10-13T07:36:36.020Z"
+      },
+      "timestamp": 1760340996469
+    },
+    "receivedAt": "2025-10-13T14:36:43.506019"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:43.765Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340992616
+    },
+    "receivedAt": "2025-10-13T14:36:43.506019"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:43.929Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340996478
+    },
+    "receivedAt": "2025-10-13T14:36:43.706504"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:43.930Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340992651
+    },
+    "receivedAt": "2025-10-13T14:36:43.713605"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:44.125Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:e7e7ab28-2d2c-4850-8514-0e78568eddda, messageId: 20251013073632498#6nbIKqjS8kAyFtJIxyVT2y ",
+      "timestamp": 1760340992985
+    },
+    "receivedAt": "2025-10-13T14:36:43.875080"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:44.137Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Received_Message,{\"eventType\":\"chatroom.message\",\"traceId\":\"1-68ecac04-30307b1a26d292857f9c09de\",\"eventData\":{\"clientRequestId\":\"new:GEDTC-183058:0eec37e3-6389-4aeb-9fe9-b972df6c2c0d\",\"clientRequestDate\":\"2025-10-13T07:36:36.002Z\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"messageId\":\"20251013073636020#YLbnzWhvSQkRGwGLknA0c\",\"createAt\":\"2025-10-13T07:36:36.020Z\",\"messageType\":\"text/plain\",\"message\":\"24\",\"attachments\":[],\"isBot\":f",
+      "timestamp": 1760340996498
+    },
+    "receivedAt": "2025-10-13T14:36:43.880098"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:44.286Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:e7e7ab28-2d2c-4850-8514-0e78568eddda",
+        "clientRequestDate": 1760340992485,
+        "messageId": "20251013073632498#6nbIKqjS8kAyFtJIxyVT2y",
+        "createAt": "2025-10-13T07:36:32.498Z"
+      },
+      "timestamp": 1760340992985
+    },
+    "receivedAt": "2025-10-13T14:36:44.021293"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:44.311Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340996511
+    },
+    "receivedAt": "2025-10-13T14:36:44.036898"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:44.468Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340992996
+    },
+    "receivedAt": "2025-10-13T14:36:44.205559"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:44.483Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340996527
+    },
+    "receivedAt": "2025-10-13T14:36:44.221189"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:44.652Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Received_Message,{\"eventType\":\"chatroom.message\",\"traceId\":\"1-68ecac00-54a834e666f82100169970e1\",\"eventData\":{\"clientRequestId\":\"new:GEDTC-183058:e7e7ab28-2d2c-4850-8514-0e78568eddda\",\"clientRequestDate\":\"2025-10-13T07:36:32.485Z\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"messageId\":\"20251013073632498#6nbIKqjS8kAyFtJIxyVT2y\",\"createAt\":\"2025-10-13T07:36:32.498Z\",\"messageType\":\"text/plain\",\"message\":\"24\",\"attachments\":[],\"isBot\":",
+      "timestamp": 1760340993020
+    },
+    "receivedAt": "2025-10-13T14:36:44.386500"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:44.653Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340996619
+    },
+    "receivedAt": "2025-10-13T14:36:44.397887"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:44.828Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340993040
+    },
+    "receivedAt": "2025-10-13T14:36:44.552761"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:44.829Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "outgoing chatroom message sent:,{\"kind\":\"OutgoingMessage\",\"message\":\"25\",\"conversationId\":\"GEDTC-183058\",\"clientRequestId\":\"new:GEDTC-183058:dec54745-1a36-4516-af45-3f1754131911\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"clientRequestDate\":\"2025-10-13T07:36:38.943Z\",\"messageType\":\"text/plain\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"status\":1} ",
+      "timestamp": 1760340998944
+    },
+    "receivedAt": "2025-10-13T14:36:44.568399"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:44.982Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340993051
+    },
+    "receivedAt": "2025-10-13T14:36:44.725681"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:44.983Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:dec54745-1a36-4516-af45-3f1754131911, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760340998944
+    },
+    "receivedAt": "2025-10-13T14:36:44.738496"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:45.161Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340998987
+    },
+    "receivedAt": "2025-10-13T14:36:45.158267"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:45.580Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340998987
+    },
+    "receivedAt": "2025-10-13T14:36:45.691000"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:45.948Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:c0cf3372-2bda-4281-8c42-b062a8f81e05, messageId: 20251013073640547#1xGXI5QJRJXfph3DNZBups ",
+      "timestamp": 1760341001013
+    },
+    "receivedAt": "2025-10-13T14:36:45.730866"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:46.149Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:c0cf3372-2bda-4281-8c42-b062a8f81e05",
+        "clientRequestDate": 1760341000215,
+        "messageId": "20251013073640547#1xGXI5QJRJXfph3DNZBups",
+        "createAt": "2025-10-13T07:36:40.547Z"
+      },
+      "timestamp": 1760341001014
+    },
+    "receivedAt": "2025-10-13T14:36:45.881530"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:45.160Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340993158
+    },
+    "receivedAt": "2025-10-13T14:36:45.892205"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:46.143Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340999003
+    },
+    "receivedAt": "2025-10-13T14:36:45.911896"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:46.296Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Received_Message,{\"eventType\":\"chatroom.message\",\"traceId\":\"1-68ecac08-51afdf19662156c611b57eba\",\"eventData\":{\"clientRequestId\":\"new:GEDTC-183058:c0cf3372-2bda-4281-8c42-b062a8f81e05\",\"clientRequestDate\":\"2025-10-13T07:36:40.215Z\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"messageId\":\"20251013073640547#1xGXI5QJRJXfph3DNZBups\",\"createAt\":\"2025-10-13T07:36:40.547Z\",\"messageType\":\"text/plain\",\"message\":\"25\",\"attachments\":[],\"isBot\":",
+      "timestamp": 1760341001037
+    },
+    "receivedAt": "2025-10-13T14:36:46.272074"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:46.595Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340999021
+    },
+    "receivedAt": "2025-10-13T14:36:46.293203"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:46.318Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340994129
+    },
+    "receivedAt": "2025-10-13T14:36:46.344516"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:46.711Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341001046
+    },
+    "receivedAt": "2025-10-13T14:36:46.473817"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:47.243Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340999036
+    },
+    "receivedAt": "2025-10-13T14:36:46.975893"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:47.244Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340994149
+    },
+    "receivedAt": "2025-10-13T14:36:46.996775"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:47.245Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341001057
+    },
+    "receivedAt": "2025-10-13T14:36:46.996775"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:48.242Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340994867
+    },
+    "receivedAt": "2025-10-13T14:36:47.997377"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:48.242Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340999087
+    },
+    "receivedAt": "2025-10-13T14:36:48.004619"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:48.243Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341001065
+    },
+    "receivedAt": "2025-10-13T14:36:48.005628"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:49.239Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340999140
+    },
+    "receivedAt": "2025-10-13T14:36:49.234370"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:50.265Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340999393
+    },
+    "receivedAt": "2025-10-13T14:36:50.005072"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:49.240Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341001166
+    },
+    "receivedAt": "2025-10-13T14:36:50.046639"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:49.238Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340994873
+    },
+    "receivedAt": "2025-10-13T14:36:50.077878"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:51.244Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:dec54745-1a36-4516-af45-3f1754131911, messageId: 20251013073638946#5QeXsm7xewNdOmTkRhnhZl ",
+      "timestamp": 1760340999402
+    },
+    "receivedAt": "2025-10-13T14:36:50.947026"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:51.245Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "outgoing chatroom message sent:,{\"kind\":\"OutgoingMessage\",\"message\":\"25\",\"conversationId\":\"GEDTC-183058\",\"clientRequestId\":\"new:GEDTC-183058:72471d07-eae1-4a49-b13f-bd81559b2520\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"clientRequestDate\":\"2025-10-13T07:36:41.709Z\",\"messageType\":\"text/plain\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"status\":1} ",
+      "timestamp": 1760341001709
+    },
+    "receivedAt": "2025-10-13T14:36:51.332766"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:51.246Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "outgoing chatroom message sent:,{\"kind\":\"OutgoingMessage\",\"message\":\"24\",\"conversationId\":\"GEDTC-183058\",\"clientRequestId\":\"new:GEDTC-183058:834502a3-40df-43b4-8f5d-484a05f83013\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"clientRequestDate\":\"2025-10-13T07:36:34.894Z\",\"messageType\":\"text/plain\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"status\":1} ",
+      "timestamp": 1760340994894
+    },
+    "receivedAt": "2025-10-13T14:36:51.340621"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:51.247Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341008265
+    },
+    "receivedAt": "2025-10-13T14:36:51.356253"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:52.251Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:72471d07-eae1-4a49-b13f-bd81559b2520, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760341001709
+    },
+    "receivedAt": "2025-10-13T14:36:52.096181"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:52.254Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341010263
+    },
+    "receivedAt": "2025-10-13T14:36:52.740247"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:52.253Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:834502a3-40df-43b4-8f5d-484a05f83013, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760340994894
+    },
+    "receivedAt": "2025-10-13T14:36:53.004486"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:53.251Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341001761
+    },
+    "receivedAt": "2025-10-13T14:36:53.022389"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:52.251Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:dec54745-1a36-4516-af45-3f1754131911",
+        "clientRequestDate": 1760340998943,
+        "messageId": "20251013073638946#5QeXsm7xewNdOmTkRhnhZl",
+        "createAt": "2025-10-13T07:36:38.946Z"
+      },
+      "timestamp": 1760340999403
+    },
+    "receivedAt": "2025-10-13T14:36:53.022389"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:54.247Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340994898
+    },
+    "receivedAt": "2025-10-13T14:36:54.176147"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:55.239Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340994923
+    },
+    "receivedAt": "2025-10-13T14:36:54.979167"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:54.250Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340999410
+    },
+    "receivedAt": "2025-10-13T14:36:54.994036"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:54.248Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341001761
+    },
+    "receivedAt": "2025-10-13T14:36:54.994036"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:56.247Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340994923
+    },
+    "receivedAt": "2025-10-13T14:36:55.983032"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:56.248Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341001775
+    },
+    "receivedAt": "2025-10-13T14:36:55.985213"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:56.249Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Received_Message,{\"eventType\":\"chatroom.message\",\"traceId\":\"1-68ecac06-71fa9270293a43071cd13c43\",\"eventData\":{\"clientRequestId\":\"new:GEDTC-183058:dec54745-1a36-4516-af45-3f1754131911\",\"clientRequestDate\":\"2025-10-13T07:36:38.943Z\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"messageId\":\"20251013073638946#5QeXsm7xewNdOmTkRhnhZl\",\"createAt\":\"2025-10-13T07:36:38.946Z\",\"messageType\":\"text/plain\",\"message\":\"25\",\"attachments\":[],\"isBot\":",
+      "timestamp": 1760340999428
+    },
+    "receivedAt": "2025-10-13T14:36:55.989910"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:57.244Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340999441
+    },
+    "receivedAt": "2025-10-13T14:36:57.248278"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:57.243Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340994933
+    },
+    "receivedAt": "2025-10-13T14:36:58.009872"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:57.244Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341001785
+    },
+    "receivedAt": "2025-10-13T14:36:58.017731"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:58.241Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340999449
+    },
+    "receivedAt": "2025-10-13T14:36:58.017731"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:59.237Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340994938
+    },
+    "receivedAt": "2025-10-13T14:36:58.982625"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:59.238Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341001791
+    },
+    "receivedAt": "2025-10-13T14:36:58.990907"
+  },
+  {
+    "timestamp": "2025-10-13T07:36:59.239Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760340999560
+    },
+    "receivedAt": "2025-10-13T14:36:58.991917"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:00.243Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341001854
+    },
+    "receivedAt": "2025-10-13T14:36:59.970193"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:00.244Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341000171
+    },
+    "receivedAt": "2025-10-13T14:36:59.989033"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:01.252Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341001910
+    },
+    "receivedAt": "2025-10-13T14:37:01.007365"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:01.253Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341000194
+    },
+    "receivedAt": "2025-10-13T14:37:01.029492"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:02.248Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "outgoing chatroom message sent:,{\"kind\":\"OutgoingMessage\",\"message\":\"25\",\"conversationId\":\"GEDTC-183058\",\"clientRequestId\":\"new:GEDTC-183058:c0cf3372-2bda-4281-8c42-b062a8f81e05\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"clientRequestDate\":\"2025-10-13T07:36:40.215Z\",\"messageType\":\"text/plain\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"status\":1} ",
+      "timestamp": 1760341000215
+    },
+    "receivedAt": "2025-10-13T14:37:02.012145"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:02.249Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Received_Message,{\"eventType\":\"chatroom.message\",\"traceId\":\"1-68ecac0a-2e481a695452b5b974d1dc53\",\"eventData\":{\"clientRequestId\":\"new:GEDTC-183058:72471d07-eae1-4a49-b13f-bd81559b2520\",\"clientRequestDate\":\"2025-10-13T07:36:41.709Z\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"messageId\":\"20251013073642038#5s3TgnOluDc5oZ3w2kRv3b\",\"createAt\":\"2025-10-13T07:36:42.038Z\",\"messageType\":\"text/plain\",\"message\":\"25\",\"attachments\":[],\"isBot\":",
+      "timestamp": 1760341002568
+    },
+    "receivedAt": "2025-10-13T14:37:02.025971"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:03.251Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341002588
+    },
+    "receivedAt": "2025-10-13T14:37:03.246666"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:03.250Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:c0cf3372-2bda-4281-8c42-b062a8f81e05, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760341000216
+    },
+    "receivedAt": "2025-10-13T14:37:04.002341"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:04.250Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341002606
+    },
+    "receivedAt": "2025-10-13T14:37:04.033602"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:05.242Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341000224
+    },
+    "receivedAt": "2025-10-13T14:37:04.971641"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:05.244Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341002707
+    },
+    "receivedAt": "2025-10-13T14:37:04.971641"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:06.249Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341000255
+    },
+    "receivedAt": "2025-10-13T14:37:05.994095"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:06.250Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:72471d07-eae1-4a49-b13f-bd81559b2520, messageId: 20251013073642038#5s3TgnOluDc5oZ3w2kRv3b ",
+      "timestamp": 1760341002805
+    },
+    "receivedAt": "2025-10-13T14:37:06.015728"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:07.238Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:72471d07-eae1-4a49-b13f-bd81559b2520",
+        "clientRequestDate": 1760341001709,
+        "messageId": "20251013073642038#5s3TgnOluDc5oZ3w2kRv3b",
+        "createAt": "2025-10-13T07:36:42.038Z"
+      },
+      "timestamp": 1760341002806
+    },
+    "receivedAt": "2025-10-13T14:37:07.507970"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:08.248Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341002823
+    },
+    "receivedAt": "2025-10-13T14:37:07.982507"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:07.239Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341000255
+    },
+    "receivedAt": "2025-10-13T14:37:08.281208"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:09.241Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341003391
+    },
+    "receivedAt": "2025-10-13T14:37:08.975339"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:09.242Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341000260
+    },
+    "receivedAt": "2025-10-13T14:37:08.980622"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:10.239Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "outgoing chatroom message sent:,{\"kind\":\"OutgoingMessage\",\"message\":\"25\",\"conversationId\":\"GEDTC-183058\",\"clientRequestId\":\"new:GEDTC-183058:a938e864-ea34-4914-a034-f7636a1ddc28\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"clientRequestDate\":\"2025-10-13T07:36:43.940Z\",\"messageType\":\"text/plain\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"status\":1} ",
+      "timestamp": 1760341003940
+    },
+    "receivedAt": "2025-10-13T14:37:10.285330"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:10.238Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341000268
+    },
+    "receivedAt": "2025-10-13T14:37:10.970902"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:12.251Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:a938e864-ea34-4914-a034-f7636a1ddc28, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760341003940
+    },
+    "receivedAt": "2025-10-13T14:37:11.995977"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:12.253Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341000275
+    },
+    "receivedAt": "2025-10-13T14:37:12.006871"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:13.244Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341003975
+    },
+    "receivedAt": "2025-10-13T14:37:12.976694"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:13.245Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341000292
+    },
+    "receivedAt": "2025-10-13T14:37:12.994401"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:14.248Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341003976
+    },
+    "receivedAt": "2025-10-13T14:37:13.979974"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:15.250Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341003994
+    },
+    "receivedAt": "2025-10-13T14:37:14.988183"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:16.248Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341004008
+    },
+    "receivedAt": "2025-10-13T14:37:16.011578"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:16.260Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760341036260,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:37:16.026716"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:17.250Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341004017
+    },
+    "receivedAt": "2025-10-13T14:37:17.033876"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:18.247Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341004069
+    },
+    "receivedAt": "2025-10-13T14:37:17.994330"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:19.241Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341004124
+    },
+    "receivedAt": "2025-10-13T14:37:18.980325"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:20.238Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341004406
+    },
+    "receivedAt": "2025-10-13T14:37:19.979883"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:21.252Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Received_Message,{\"eventType\":\"chatroom.message\",\"traceId\":\"1-68ecac0c-005a1bed716a1ed06c7a73c6\",\"eventData\":{\"clientRequestId\":\"new:GEDTC-183058:a938e864-ea34-4914-a034-f7636a1ddc28\",\"clientRequestDate\":\"2025-10-13T07:36:43.940Z\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"messageId\":\"20251013073644042#2Z0OC6mOBx6NrKuAz9VCVa\",\"createAt\":\"2025-10-13T07:36:44.042Z\",\"messageType\":\"text/plain\",\"message\":\"25\",\"attachments\":[],\"isBot\":",
+      "timestamp": 1760341004516
+    },
+    "receivedAt": "2025-10-13T14:37:20.991571"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:22.244Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:a938e864-ea34-4914-a034-f7636a1ddc28, messageId: 20251013073644042#2Z0OC6mOBx6NrKuAz9VCVa ",
+      "timestamp": 1760341004520
+    },
+    "receivedAt": "2025-10-13T14:37:21.979322"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:23.240Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:a938e864-ea34-4914-a034-f7636a1ddc28",
+        "clientRequestDate": 1760341003940,
+        "messageId": "20251013073644042#2Z0OC6mOBx6NrKuAz9VCVa",
+        "createAt": "2025-10-13T07:36:44.042Z"
+      },
+      "timestamp": 1760341004520
+    },
+    "receivedAt": "2025-10-13T14:37:23.073043"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:24.251Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341004530
+    },
+    "receivedAt": "2025-10-13T14:37:24.003280"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:25.242Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341004543
+    },
+    "receivedAt": "2025-10-13T14:37:24.973946"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:26.237Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341004551
+    },
+    "receivedAt": "2025-10-13T14:37:25.971009"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:27.249Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341004637
+    },
+    "receivedAt": "2025-10-13T14:37:26.985733"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:28.248Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760341005948,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:37:27.983970"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:36.247Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Set preferences - normal,{\"EIKONLIGHT.MESSENGER.RECENT_CONVERSATION.SETTING\":[{\"id\":\"recentTab\",\"value\":\"chats\"},{\"id\":\"recentActiveChats\",\"value\":\"GEDTC-183058\"}],\"timestamp\":\"1760341004551\",\"EIKONLIGHT.MESSENGER.RECENT_CONVERSATION.LIST\":{\"recentList\":[{\"id\":\"GEDTC-183058\",\"type\":\"conversation\",\"isMuted\":false,\"isShowing\":true},{\"id\":\"SL1-26AWX-6672\",\"type\":\"conversation\",\"isMuted\":false,\"isShowing\":true}],\"pinList\":[]},\"EIKONLIGHT.MESSENGER.CONVERSATIONS.DETAILS\":{\"GEDTC-183058\":{\"id\":\"GEDTC-",
+      "timestamp": 1760341052183
+    },
+    "receivedAt": "2025-10-13T14:37:36.033259"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:37.240Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "put",
+      "url": "https://messenger.refinitiv.com/api/clpprod-user-setting/collab/settings/preferences",
+      "status": 200,
+      "response": "",
+      "timestamp": 1760341052188
+    },
+    "receivedAt": "2025-10-13T14:37:37.311976"
+  },
+  {
+    "timestamp": "2025-10-13T07:37:46.262Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760341066261,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:37:46.073231"
+  },
+  {
+    "timestamp": "2025-10-13T07:38:40.925Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760341119516,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:38:41.736985"
+  },
+  {
+    "timestamp": "2025-10-13T07:38:42.252Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341119539
+    },
+    "receivedAt": "2025-10-13T14:38:41.984361"
+  },
+  {
+    "timestamp": "2025-10-13T07:38:43.012Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341120547
+    },
+    "receivedAt": "2025-10-13T14:38:42.772504"
+  },
+  {
+    "timestamp": "2025-10-13T07:38:46.258Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341123540
+    },
+    "receivedAt": "2025-10-13T14:38:46.250633"
+  },
+  {
+    "timestamp": "2025-10-13T07:38:47.240Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341125264
+    },
+    "receivedAt": "2025-10-13T14:38:47.021155"
+  },
+  {
+    "timestamp": "2025-10-13T07:38:48.240Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760341126258,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:38:48.603929"
+  },
+  {
+    "timestamp": "2025-10-13T07:39:06.244Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341143552
+    },
+    "receivedAt": "2025-10-13T14:39:05.987834"
+  },
+  {
+    "timestamp": "2025-10-13T07:39:07.253Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341145257
+    },
+    "receivedAt": "2025-10-13T14:39:07.594779"
+  },
+  {
+    "timestamp": "2025-10-13T07:39:16.255Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760341156255,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:39:16.352390"
+  },
+  {
+    "timestamp": "2025-10-13T07:39:46.252Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760341186252,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:39:47.420686"
+  },
+  {
+    "timestamp": "2025-10-13T07:40:30.927Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760341226950,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:40:30.697269"
+  },
+  {
+    "timestamp": "2025-10-13T07:40:31.127Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341226977
+    },
+    "receivedAt": "2025-10-13T14:40:30.856840"
+  },
+  {
+    "timestamp": "2025-10-13T07:40:31.289Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341227984
+    },
+    "receivedAt": "2025-10-13T14:40:30.995897"
+  },
+  {
+    "timestamp": "2025-10-13T07:40:46.259Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760341246259,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:40:46.304744"
+  },
+  {
+    "timestamp": "2025-10-13T07:40:51.052Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341246812
+    },
+    "receivedAt": "2025-10-13T14:40:51.136823"
+  },
+  {
+    "timestamp": "2025-10-13T07:40:52.257Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341248267
+    },
+    "receivedAt": "2025-10-13T14:40:51.994251"
+  },
+  {
+    "timestamp": "2025-10-13T07:40:53.243Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341251042
+    },
+    "receivedAt": "2025-10-13T14:40:53.241195"
+  },
+  {
+    "timestamp": "2025-10-13T07:40:56.243Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341252273
+    },
+    "receivedAt": "2025-10-13T14:40:55.971143"
+  },
+  {
+    "timestamp": "2025-10-13T07:40:57.243Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341255058
+    },
+    "receivedAt": "2025-10-13T14:40:56.958301"
+  },
+  {
+    "timestamp": "2025-10-13T07:41:01.255Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341256260
+    },
+    "receivedAt": "2025-10-13T14:41:01.039444"
+  },
+  {
+    "timestamp": "2025-10-13T07:41:16.269Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760341276268,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:41:16.027384"
+  },
+  {
+    "timestamp": "2025-10-13T07:41:46.262Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760341306261,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:41:46.046283"
+  },
+  {
+    "timestamp": "2025-10-13T07:41:56.257Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341312884
+    },
+    "receivedAt": "2025-10-13T14:41:56.108268"
+  },
+  {
+    "timestamp": "2025-10-13T07:41:57.242Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341313882
+    },
+    "receivedAt": "2025-10-13T14:41:56.993058"
+  },
+  {
+    "timestamp": "2025-10-13T07:42:16.250Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341332474
+    },
+    "receivedAt": "2025-10-13T14:42:16.052335"
+  },
+  {
+    "timestamp": "2025-10-13T07:42:16.516Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341333487
+    },
+    "receivedAt": "2025-10-13T14:42:16.232713"
+  },
+  {
+    "timestamp": "2025-10-13T07:42:16.691Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760341336250,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:42:16.412283"
+  },
+  {
+    "timestamp": "2025-10-13T07:42:21.294Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341336513
+    },
+    "receivedAt": "2025-10-13T14:42:21.008957"
+  },
+  {
+    "timestamp": "2025-10-13T07:42:22.243Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341337520
+    },
+    "receivedAt": "2025-10-13T14:42:22.034330"
+  },
+  {
+    "timestamp": "2025-10-13T07:42:23.276Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341341289
+    },
+    "receivedAt": "2025-10-13T14:42:22.991427"
+  },
+  {
+    "timestamp": "2025-10-13T07:42:26.253Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760341343274
+    },
+    "receivedAt": "2025-10-13T14:42:25.965570"
+  },
+  {
+    "timestamp": "2025-10-13T07:42:46.256Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760341366256,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:42:45.998242"
+  },
+  {
+    "timestamp": "2025-10-13T07:43:16.263Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760341396263,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:43:16.292091"
+  },
+  {
+    "timestamp": "2025-10-13T07:45:40.252Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760341480271,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:45:40.352677"
+  },
+  {
+    "timestamp": "2025-10-13T07:46:40.250Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760341540274,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:46:40.375487"
+  },
+  {
+    "timestamp": "2025-10-13T07:47:40.251Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760341600277,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:47:40.273193"
+  },
+  {
+    "timestamp": "2025-10-13T07:48:40.247Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760341660271,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:48:40.988303"
+  },
+  {
+    "timestamp": "2025-10-13T07:49:40.260Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760341720265,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:49:40.661091"
+  },
+  {
+    "timestamp": "2025-10-13T07:50:40.255Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760341780282,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:50:41.125731"
+  },
+  {
+    "timestamp": "2025-10-13T07:51:40.253Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760341840283,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:51:40.858083"
+  },
+  {
+    "timestamp": "2025-10-13T07:52:40.259Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760341900278,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:52:40.620489"
+  },
+  {
+    "timestamp": "2025-10-13T07:53:40.260Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760341960274,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:53:39.993857"
+  },
+  {
+    "timestamp": "2025-10-13T07:54:40.256Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760342020287,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:54:40.287164"
+  },
+  {
+    "timestamp": "2025-10-13T07:55:33.085Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760342080271,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:55:33.061363"
+  },
+  {
+    "timestamp": "2025-10-13T07:55:36.246Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342133117
+    },
+    "receivedAt": "2025-10-13T14:55:35.936427"
+  },
+  {
+    "timestamp": "2025-10-13T07:55:37.255Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760342133131,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 14:33:53] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 23",
+          "date": "2025-10-13",
+          "time": "14:33:53",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "23",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:30] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:30",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:31] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:31",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:32] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:32",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:35] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:35",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 24",
+          "date": "2025-10-13",
+          "time": "14:36:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "24",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        },
+        {
+          "raw": "[2025-10-13 14:36:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 25",
+          "date": "2025-10-13",
+          "time": "14:36:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "25",
+          "name": "",
+          "bank": ""
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:55:36.941719"
+  },
+  {
+    "timestamp": "2025-10-13T07:55:38.256Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342134130
+    },
+    "receivedAt": "2025-10-13T14:55:38.319914"
+  },
+  {
+    "timestamp": "2025-10-13T07:55:50.188Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "boolean setting from AAA EIKONLIGHT.MESSENGER.APP_CHATROOM_LOGGER.ENABLED loaded, value: false ",
+      "timestamp": 1760342147103
+    },
+    "receivedAt": "2025-10-13T14:55:50.275868"
+  },
+  {
+    "timestamp": "2025-10-13T07:55:50.761Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Can't get setting: EIKONLIGHT.MESSENGER.TRADING.WEB_TRADE_ENABLED, default value: false; ",
+      "timestamp": 1760342147104
+    },
+    "receivedAt": "2025-10-13T14:55:50.459499"
+  },
+  {
+    "timestamp": "2025-10-13T07:55:50.918Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "boolean setting from AAA COMMON.MESSENGER.M2.SESSION_MANAGEMENT.ENABLED loaded, value: true ",
+      "timestamp": 1760342147104
+    },
+    "receivedAt": "2025-10-13T14:55:50.938776"
+  },
+  {
+    "timestamp": "2025-10-13T07:55:51.423Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "boolean setting from AAA EIKONLIGHT.MESSENGER.INAPP_NOTIFICATION.ENABLED loaded, value: false ",
+      "timestamp": 1760342147104
+    },
+    "receivedAt": "2025-10-13T14:55:51.080686"
+  },
+  {
+    "timestamp": "2025-10-13T07:55:51.555Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "string setting from AAA EIKONLIGHT.MESSENGER.INAPP_NOTIFICATION.STARTDATE loaded, value: 2025-10-01 ",
+      "timestamp": 1760342147104
+    },
+    "receivedAt": "2025-10-13T14:55:51.567072"
+  },
+  {
+    "timestamp": "2025-10-13T07:55:52.073Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "string setting from AAA EIKONLIGHT.MESSENGER.INAPP_NOTIFICATION.ENDDATE loaded, value: 2025-11-15 ",
+      "timestamp": 1760342147104
+    },
+    "receivedAt": "2025-10-13T14:55:51.769382"
+  },
+  {
+    "timestamp": "2025-10-13T07:55:52.239Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "POST",
+      "url": "https://messenger.refinitiv.com/Apps/shared-services/Service/AaaService/AAAUserAttribute",
+      "status": 200,
+      "response": {
+        "userAttributeList": [
+          {
+            "Name": "PERM.WORKSPACE_FRAMEWORK.MESSENGER",
+            "Value": "true"
+          },
+          {
+            "Name": "PERM.WORKSPACE_FRAMEWORK.MESSENGER_2_0",
+            "Value": "true"
+          },
+          {
+            "Name": "PERM.WORKSPACE_FRAMEWORK.LAYOUTS",
+            "Value": "false"
+          },
+          {
+            "Name": "PERM.PRODUCT_FEATURES.DISABLE_MESSENGER",
+            "Value": "false"
+          }
+        ]
+      },
+      "timestamp": 1760342147376
+    },
+    "receivedAt": "2025-10-13T14:55:51.923985"
+  },
+  {
+    "timestamp": "2025-10-13T07:55:52.717Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "xhr_response",
+      "method": "GET",
+      "url": "https://messenger.refinitiv.com/Apps/RWProfileServiceWebApi/v1/userProfile?uuid=GEDTC-323802",
+      "status": 200,
+      "response": {
+        "id": "v1-UserProfileGet#219",
+        "success": true,
+        "data": {
+          "jobRole": "FRUCJF:48",
+          "jobRoleName": "Market Data Manager",
+          "primaryAssetClassGroup": null,
+          "primaryAssetClassGroupName": null,
+          "primaryAssetClass": null,
+          "primaryAssetClassName": null,
+          "secondaryAssetClasses": [],
+          "secondaryAssetClassNames": [],
+          "country": "Vietnam",
+          "city": "Hanoi",
+          "locationAccountID": "SL1-6RH9YBY",
+          "ultimateParentId": "SL1-6RH9YBY",
+          "nearestLegalEntityId": "SL1-6RH9YBY",
+          "primaryGeographicalFocus": "G:3U8",
+          "primaryGeographicalFocusName": "Global",
+          "secondaryGeographicalFocus": [],
+          "secondaryGeographicalFocusNames": [],
+          "geographicalLocation": "SL1-6RH9YBY",
+          "language": "en-US",
+          "userCommunity": "Developer",
+          "userVariant": "Eikon Messenger",
+          "variantName": "Eikon Messenger",
+          "companySize": null,
+          "jobGroup": "FRUCJF:48",
+          "jobGroupName": "Market Data Manager",
+          "permID": 1000475141
+        },
+        "executionTime": "1.853"
+      },
+      "timestamp": 1760342149833
+    },
+    "receivedAt": "2025-10-13T14:55:52.402440"
+  },
+  {
+    "timestamp": "2025-10-13T07:55:53.344Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "GET",
+      "url": "https://messenger.refinitiv.com/api/clpprod-auth/collab/auth/user-token",
+      "status": 200,
+      "response": {
+        "description": "OK",
+        "data": {
+          "jwtToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6IjBEYi1hUS5uLVBsTGcifQ.eyJ4LWFibHktY2xpZW50SWQiOiIyZWNlZGJmZjc3MWJjYzEyMjc4YWZhYWU5ZTEyNmNiNCIsIngtYWJseS1jYXBhYmlsaXR5Ijoie1wiY29udHJvbDoxYTVkOTkwN2U3OGNhZWJmOTkxZWUyODhlZGFmYmM2ZmNjZTBjYWUyMzlkODI5NDA4YmNhMmFmYzFiYTgwNmYyXCI6W1wicHJlc2VuY2VcIixcInN1YnNjcmliZVwiLFwiaGlzdG9yeVwiXSxcImNscDpnbG9iYWxcIjpbXCJzdWJzY3JpYmVcIixcImhpc3RvcnlcIl0sXCJ1c2VyLXByZXNlbmNlOipcIjpbXCJzdWJzY3JpYmVcIl0sXCJ1c2VyLXByZXNlbmNlOkdFRFRDLTMyMzgwMlwiOltcInByZXNlbmNlXCJdLFwiZGVzay1saXN0ZW5lcjoxYTVkOTkwN2U3OGNhZWJmOTkxZWUyODhlZGFmYmM2ZmNjZTBjYWUyMzlkODI5NDA4YmNhMmFmYzFiYTgwNmYyXCI6W1wic3Vic2NyaWJlXCJdLFwiYWNjZXB0Om5vdGlmaWNhdGlvblwiOltcInB1Ymxpc2hcIl0sXCJpMmk6KlwiOltcInByZXNlbmNlXCIsXCJzdWJzY3JpYmVcIixcImhpc3RvcnlcIl0sXCJibGM6KlwiOltcInByZXNlbmNlXCIsXCJzdWJzY3JpYmVcIixcImhpc3RvcnlcIl0sXCJtY3I6KlwiOltcInByZXNlbmNlXCIsXCJzdWJzY3JpYmVcIixcImhpc3RvcnlcIl0sXCJMU0VHLVRSQURFX1BST0RURVNUOipcIjpbXCJwcmVzZW5jZVwiLFwic3Vic2NyaWJlXCIsXCJoaXN0b3J5XCJdLFwiTFNFRy1UUkFERUJvdFVzZXJvZkRldm5hdGgxOipcIjpbXCJwcmVzZW5jZVwiLFwic3Vic2NyaWJlXCIsXCJoaXN0b3J5XCJdLFwiTFNFRy1UUkFERUF1dG9tYXRpb24xOipcIjpbXCJwcmVzZW5jZVwiLFwic3Vic2NyaWJlXCIsXCJoaXN0b3J5XCJdLFwiTFNFRy1UUkFERS0xOipcIjpbXCJwcmVzZW5jZVwiLFwic3Vic2NyaWJlXCIsXCJoaXN0b3J5XCJdLFwibHNlZy10cmFkZS0wNTg1OipcIjpbXCJwcmVzZW5jZVwiLFwic3Vic2NyaWJlXCIsXCJoaXN0b3J5XCJdLFwibHNlZy10cmFkZToqXCI6W1wicHJlc2VuY2VcIixcInN1YnNjcmliZVwiLFwiaGlzdG9yeVwiXX0iLCJleHAiOjE3NjA0Mjg1NDksInV1aWQiOiJHRURUQy0zMjM4MDIiLCJpYXQiOjE3NjAzNDIxNDl9.eaO-3RMKt0cxMal1uLeJMOKXIyLhXqQpPSJfOb7THhU"
+        }
+      },
+      "timestamp": 1760342150324
+    },
+    "receivedAt": "2025-10-13T14:55:53.176871"
+  },
+  {
+    "timestamp": "2025-10-13T07:55:53.944Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342153348
+    },
+    "receivedAt": "2025-10-13T14:55:53.629440"
+  },
+  {
+    "timestamp": "2025-10-13T07:55:54.329Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "[MessengerPlugin] enterPresence for GEDTC-323802 status: Online ",
+      "timestamp": 1760342150639
+    },
+    "receivedAt": "2025-10-13T14:55:54.023630"
+  },
+  {
+    "timestamp": "2025-10-13T07:55:55.276Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "xhr_response",
+      "method": "GET",
+      "url": "https://cdn.refinitiv.net/public/libs/elf/assets/elf-theme-halo/resources/icons/right.svg",
+      "status": 200,
+      "response": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"><path stroke=\"#000\" d=\"m5.5 13.5 5-5.5-5-5.5\" fill=\"none\" fill-rule=\"evenodd\"/></svg>",
+      "timestamp": 1760342153359
+    },
+    "receivedAt": "2025-10-13T14:55:54.956675"
+  },
+  {
+    "timestamp": "2025-10-13T07:55:55.307Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Get preferences success with,{\"EIKONLIGHT.MESSENGER.RECENT_CONVERSATION.SETTING\":[{\"id\":\"recentTab\",\"value\":\"chats\"},{\"id\":\"recentActiveChats\",\"value\":\"GEDTC-183058\"}],\"timestamp\":\"1760341004551\",\"EIKONLIGHT.MESSENGER.RECENT_CONVERSATION.LIST\":{\"recentList\":[{\"id\":\"GEDTC-183058\",\"type\":\"conversation\",\"isMuted\":false,\"isShowing\":true},{\"id\":\"SL1-26AWX-6672\",\"type\":\"conversation\",\"isMuted\":false,\"isShowing\":true}],\"pinList\":[]},\"EIKONLIGHT.MESSENGER.CONVERSATIONS.DETAILS\":{\"GEDTC-183058\":{\"id\":\"GE",
+      "timestamp": 1760342151042
+    },
+    "receivedAt": "2025-10-13T14:55:54.995469"
+  },
+  {
+    "timestamp": "2025-10-13T07:55:55.317Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "GET",
+      "url": "https://messenger.refinitiv.com/api/disclaimer/disclaimer-service/disclaimer?uuid=GEDTC-183058&chatRoomId=i2i%3Ad1ea61f867ad63376728ec12a8532d3d",
+      "status": 200,
+      "response": {
+        "disclaimer": "Conversations may be recorded, may be monitored by the participants and their employers, and may be disclosed to governmental or other regulatory bodies in compliance with applicable laws. You acknowledge and agree that any interactive features within Eikon, Eikon Messenger, LSEG Messenger, LSEG Workspace, LSEG Open Directory or any other services which are not advertised to be trade execution venues must not be used to conduct or execute any transactions or trades under any circumstances.",
+        "level": "Global"
+      },
+      "timestamp": 1760342153946
+    },
+    "receivedAt": "2025-10-13T14:55:54.995469"
+  },
+  {
+    "timestamp": "2025-10-13T07:55:55.454Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "xhr_response",
+      "method": "GET",
+      "url": "https://cdn.refinitiv.net/public/libs/elf/assets/elf-theme-halo/resources/icons/cross.svg",
+      "status": 200,
+      "response": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"><g stroke=\"#000\" fill=\"none\" fill-rule=\"evenodd\"><path d=\"M12 12 4 4M12 4l-8 8\"/></g></svg>",
+      "timestamp": 1760342153360
+    },
+    "receivedAt": "2025-10-13T14:55:55.131471"
+  }
+]

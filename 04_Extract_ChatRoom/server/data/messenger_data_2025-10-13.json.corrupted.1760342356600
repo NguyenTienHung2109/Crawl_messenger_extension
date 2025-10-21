@@ -1,0 +1,2753 @@
+[
+  {
+    "timestamp": "2025-10-13T07:58:50.587Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:9be5cb23-83df-4d4c-949a-e656e46cdb45, messageId: 20251013075844989#29ghti5HsZ2A9fhvh4k2Zb ",
+      "timestamp": 1760342325470
+    },
+    "receivedAt": "2025-10-13T14:58:50.298372"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:50.761Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "outgoing chatroom message sent:,{\"kind\":\"OutgoingMessage\",\"message\":\"1\",\"conversationId\":\"GEDTC-183058\",\"clientRequestId\":\"new:GEDTC-183058:b673b7fb-e887-42bf-b9d5-1ab554c75d96\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"clientRequestDate\":\"2025-10-13T07:58:42.829Z\",\"messageType\":\"text/plain\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"status\":1} ",
+      "timestamp": 1760342322829
+    },
+    "receivedAt": "2025-10-13T14:58:50.515839"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:50.762Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:9be5cb23-83df-4d4c-949a-e656e46cdb45",
+        "clientRequestDate": 1760342324898,
+        "messageId": "20251013075844989#29ghti5HsZ2A9fhvh4k2Zb",
+        "createAt": "2025-10-13T07:58:44.989Z"
+      },
+      "timestamp": 1760342325471
+    },
+    "receivedAt": "2025-10-13T14:58:50.533485"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:50.984Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:b673b7fb-e887-42bf-b9d5-1ab554c75d96, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760342322829
+    },
+    "receivedAt": "2025-10-13T14:58:50.699625"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:50.984Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342325476
+    },
+    "receivedAt": "2025-10-13T14:58:50.718076"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:51.183Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342322834
+    },
+    "receivedAt": "2025-10-13T14:58:50.879932"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:51.184Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Received_Message,{\"eventType\":\"chatroom.message\",\"traceId\":\"1-68ecb134-394e022c5209227205166fab\",\"eventData\":{\"clientRequestId\":\"new:GEDTC-183058:9be5cb23-83df-4d4c-949a-e656e46cdb45\",\"clientRequestDate\":\"2025-10-13T07:58:44.898Z\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"messageId\":\"20251013075844989#29ghti5HsZ2A9fhvh4k2Zb\",\"createAt\":\"2025-10-13T07:58:44.989Z\",\"messageType\":\"text/plain\",\"message\":\"2\",\"attachments\":[],\"isBot\":f",
+      "timestamp": 1760342325501
+    },
+    "receivedAt": "2025-10-13T14:58:50.879932"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:51.351Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342322856
+    },
+    "receivedAt": "2025-10-13T14:58:51.260813"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:51.351Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342325510
+    },
+    "receivedAt": "2025-10-13T14:58:51.276444"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:51.737Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342322856
+    },
+    "receivedAt": "2025-10-13T14:58:51.418329"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:51.738Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342325517
+    },
+    "receivedAt": "2025-10-13T14:58:51.418329"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:51.885Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342322861
+    },
+    "receivedAt": "2025-10-13T14:58:51.584201"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:51.902Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342325623
+    },
+    "receivedAt": "2025-10-13T14:58:51.590760"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:52.052Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342322867
+    },
+    "receivedAt": "2025-10-13T14:58:51.718368"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:52.056Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342326209
+    },
+    "receivedAt": "2025-10-13T14:58:51.737028"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:52.218Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342327206
+    },
+    "receivedAt": "2025-10-13T14:58:51.902882"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:52.218Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342322871
+    },
+    "receivedAt": "2025-10-13T14:58:51.920163"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:52.384Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342327210
+    },
+    "receivedAt": "2025-10-13T14:58:52.055318"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:52.385Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342322878
+    },
+    "receivedAt": "2025-10-13T14:58:52.070933"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:52.536Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342322883
+    },
+    "receivedAt": "2025-10-13T14:58:52.220612"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:52.536Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342327213
+    },
+    "receivedAt": "2025-10-13T14:58:52.540130"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:52.935Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342322958
+    },
+    "receivedAt": "2025-10-13T14:58:52.623195"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:53.017Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "outgoing chatroom message sent:,{\"kind\":\"OutgoingMessage\",\"message\":\"3\",\"conversationId\":\"GEDTC-183058\",\"clientRequestId\":\"new:GEDTC-183058:7eb69185-fef2-4516-b73c-ef64a8b0ceed\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"clientRequestDate\":\"2025-10-13T07:58:47.284Z\",\"messageType\":\"text/plain\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"status\":1} ",
+      "timestamp": 1760342327284
+    },
+    "receivedAt": "2025-10-13T14:58:52.687050"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:53.086Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342322990
+    },
+    "receivedAt": "2025-10-13T14:58:52.758363"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:53.168Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:7eb69185-fef2-4516-b73c-ef64a8b0ceed, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760342327284
+    },
+    "receivedAt": "2025-10-13T14:58:52.854904"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:53.234Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342323141
+    },
+    "receivedAt": "2025-10-13T14:58:52.921817"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:53.321Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342327289
+    },
+    "receivedAt": "2025-10-13T14:58:53.005973"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:53.400Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342323222
+    },
+    "receivedAt": "2025-10-13T14:58:53.071162"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:53.483Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342327311
+    },
+    "receivedAt": "2025-10-13T14:58:53.523159"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:53.534Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:b673b7fb-e887-42bf-b9d5-1ab554c75d96, messageId: 20251013075843243#7TKt2Hb6drwys1f1PXPhAk ",
+      "timestamp": 1760342323740
+    },
+    "receivedAt": "2025-10-13T14:58:53.535978"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:54.018Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342327311
+    },
+    "receivedAt": "2025-10-13T14:58:53.698837"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:54.019Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:b673b7fb-e887-42bf-b9d5-1ab554c75d96",
+        "clientRequestDate": 1760342322829,
+        "messageId": "20251013075843243#7TKt2Hb6drwys1f1PXPhAk",
+        "createAt": "2025-10-13T07:58:43.243Z"
+      },
+      "timestamp": 1760342323740
+    },
+    "receivedAt": "2025-10-13T14:58:53.707342"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:54.184Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342327323
+    },
+    "receivedAt": "2025-10-13T14:58:53.873350"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:54.184Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342323747
+    },
+    "receivedAt": "2025-10-13T14:58:53.880141"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:54.350Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342327329
+    },
+    "receivedAt": "2025-10-13T14:58:54.628940"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:54.351Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Received_Message,{\"eventType\":\"chatroom.message\",\"traceId\":\"1-68ecb133-530ad63c19072aa036368522\",\"eventData\":{\"clientRequestId\":\"new:GEDTC-183058:b673b7fb-e887-42bf-b9d5-1ab554c75d96\",\"clientRequestDate\":\"2025-10-13T07:58:42.829Z\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"messageId\":\"20251013075843243#7TKt2Hb6drwys1f1PXPhAk\",\"createAt\":\"2025-10-13T07:58:43.243Z\",\"messageType\":\"text/plain\",\"message\":\"1\",\"attachments\":[],\"isBot\":f",
+      "timestamp": 1760342323777
+    },
+    "receivedAt": "2025-10-13T14:58:54.644926"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:55.116Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342327336
+    },
+    "receivedAt": "2025-10-13T14:58:54.797585"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:55.134Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342323788
+    },
+    "receivedAt": "2025-10-13T14:58:54.813199"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:55.186Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342330221
+    },
+    "receivedAt": "2025-10-13T14:58:54.878993"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:55.285Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342327346
+    },
+    "receivedAt": "2025-10-13T14:58:54.980182"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:55.286Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342323799
+    },
+    "receivedAt": "2025-10-13T14:58:54.980182"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:55.342Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "outgoing chatroom message sent:,{\"kind\":\"OutgoingMessage\",\"message\":\"4\",\"conversationId\":\"GEDTC-183058\",\"clientRequestId\":\"new:GEDTC-183058:0c8a37ed-0be9-48c9-adc0-aab92bb8997e\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"clientRequestDate\":\"2025-10-13T07:58:50.448Z\",\"messageType\":\"text/plain\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"status\":1} ",
+      "timestamp": 1760342330448
+    },
+    "receivedAt": "2025-10-13T14:58:55.027084"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:55.451Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342323908
+    },
+    "receivedAt": "2025-10-13T14:58:55.127555"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:55.451Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342327424
+    },
+    "receivedAt": "2025-10-13T14:58:55.143155"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:55.501Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:0c8a37ed-0be9-48c9-adc0-aab92bb8997e, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760342330449
+    },
+    "receivedAt": "2025-10-13T14:58:55.180400"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:55.602Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342324374
+    },
+    "receivedAt": "2025-10-13T14:58:55.293465"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:55.617Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342327457
+    },
+    "receivedAt": "2025-10-13T14:58:55.293465"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:55.635Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342330454
+    },
+    "receivedAt": "2025-10-13T14:58:55.312705"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:55.767Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342324378
+    },
+    "receivedAt": "2025-10-13T14:58:55.529828"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:55.783Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342327590
+    },
+    "receivedAt": "2025-10-13T14:58:55.534689"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:55.783Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342330475
+    },
+    "receivedAt": "2025-10-13T14:58:55.864519"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:56.284Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "outgoing chatroom message sent:,{\"kind\":\"OutgoingMessage\",\"message\":\"2\",\"conversationId\":\"GEDTC-183058\",\"clientRequestId\":\"new:GEDTC-183058:9be5cb23-83df-4d4c-949a-e656e46cdb45\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"clientRequestDate\":\"2025-10-13T07:58:44.898Z\",\"messageType\":\"text/plain\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"status\":1} ",
+      "timestamp": 1760342324898
+    },
+    "receivedAt": "2025-10-13T14:58:56.000606"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:56.285Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:7eb69185-fef2-4516-b73c-ef64a8b0ceed, messageId: 20251013075847724#2B6fZLnfPINWp4FZX9EQix ",
+      "timestamp": 1760342328220
+    },
+    "receivedAt": "2025-10-13T14:58:56.344727"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:56.351Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342330475
+    },
+    "receivedAt": "2025-10-13T14:58:56.352773"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:56.801Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:9be5cb23-83df-4d4c-949a-e656e46cdb45, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760342324898
+    },
+    "receivedAt": "2025-10-13T14:58:56.486165"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:56.802Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:7eb69185-fef2-4516-b73c-ef64a8b0ceed",
+        "clientRequestDate": 1760342327284,
+        "messageId": "20251013075847724#2B6fZLnfPINWp4FZX9EQix",
+        "createAt": "2025-10-13T07:58:47.724Z"
+      },
+      "timestamp": 1760342328220
+    },
+    "receivedAt": "2025-10-13T14:58:56.501791"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:56.817Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342330481
+    },
+    "receivedAt": "2025-10-13T14:58:56.518200"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:56.967Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342324902
+    },
+    "receivedAt": "2025-10-13T14:58:56.641781"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:56.969Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342328226
+    },
+    "receivedAt": "2025-10-13T14:58:56.658256"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:56.984Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342330489
+    },
+    "receivedAt": "2025-10-13T14:58:56.658256"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:57.136Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342330499
+    },
+    "receivedAt": "2025-10-13T14:58:56.817010"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:57.136Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342324922
+    },
+    "receivedAt": "2025-10-13T14:58:56.817010"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:57.137Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Received_Message,{\"eventType\":\"chatroom.message\",\"traceId\":\"1-68ecb137-14d3a221381ce31b02dde9bd\",\"eventData\":{\"clientRequestId\":\"new:GEDTC-183058:7eb69185-fef2-4516-b73c-ef64a8b0ceed\",\"clientRequestDate\":\"2025-10-13T07:58:47.284Z\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"messageId\":\"20251013075847724#2B6fZLnfPINWp4FZX9EQix\",\"createAt\":\"2025-10-13T07:58:47.724Z\",\"messageType\":\"text/plain\",\"message\":\"3\",\"attachments\":[],\"isBot\":f",
+      "timestamp": 1760342328495
+    },
+    "receivedAt": "2025-10-13T14:58:56.829083"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:57.300Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342330506
+    },
+    "receivedAt": "2025-10-13T14:58:56.999804"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:57.301Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342324922
+    },
+    "receivedAt": "2025-10-13T14:58:57.319100"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:57.302Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342328504
+    },
+    "receivedAt": "2025-10-13T14:58:57.330309"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:57.767Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342330574
+    },
+    "receivedAt": "2025-10-13T14:58:57.438086"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:57.800Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342328516
+    },
+    "receivedAt": "2025-10-13T14:58:57.470092"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:57.900Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342330606
+    },
+    "receivedAt": "2025-10-13T14:58:57.587015"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:57.934Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342328625
+    },
+    "receivedAt": "2025-10-13T14:58:57.619692"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:58.051Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342330756
+    },
+    "receivedAt": "2025-10-13T14:58:57.744240"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:58.084Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342329440
+    },
+    "receivedAt": "2025-10-13T14:58:57.757388"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:58.216Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342331222
+    },
+    "receivedAt": "2025-10-13T14:58:57.920219"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:58.217Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342329447
+    },
+    "receivedAt": "2025-10-13T14:58:57.920219"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:58.376Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:0c8a37ed-0be9-48c9-adc0-aab92bb8997e, messageId: 20251013075850817#3c3YUyIaQw0nDay2azOK3I ",
+      "timestamp": 1760342331305
+    },
+    "receivedAt": "2025-10-13T14:58:58.056277"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:58.528Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:0c8a37ed-0be9-48c9-adc0-aab92bb8997e",
+        "clientRequestDate": 1760342330448,
+        "messageId": "20251013075850817#3c3YUyIaQw0nDay2azOK3I",
+        "createAt": "2025-10-13T07:58:50.817Z"
+      },
+      "timestamp": 1760342331305
+    },
+    "receivedAt": "2025-10-13T14:58:58.204247"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:58.683Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342331311
+    },
+    "receivedAt": "2025-10-13T14:58:58.356849"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:58.819Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Received_Message,{\"eventType\":\"chatroom.message\",\"traceId\":\"1-68ecb13a-46bf3835256f12ee3ce5de84\",\"eventData\":{\"clientRequestId\":\"new:GEDTC-183058:0c8a37ed-0be9-48c9-adc0-aab92bb8997e\",\"clientRequestDate\":\"2025-10-13T07:58:50.448Z\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"messageId\":\"20251013075850817#3c3YUyIaQw0nDay2azOK3I\",\"createAt\":\"2025-10-13T07:58:50.817Z\",\"messageType\":\"text/plain\",\"message\":\"4\",\"attachments\":[],\"isBot\":f",
+      "timestamp": 1760342331328
+    },
+    "receivedAt": "2025-10-13T14:58:58.502913"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:58.969Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342331339
+    },
+    "receivedAt": "2025-10-13T14:58:58.664193"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:59.136Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342331349
+    },
+    "receivedAt": "2025-10-13T14:58:58.808394"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:59.300Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342331457
+    },
+    "receivedAt": "2025-10-13T14:58:58.991095"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:59.468Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342332024
+    },
+    "receivedAt": "2025-10-13T14:58:59.160004"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:59.634Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342332028
+    },
+    "receivedAt": "2025-10-13T14:58:59.321648"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:59.802Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "outgoing chatroom message sent:,{\"kind\":\"OutgoingMessage\",\"message\":\"5\",\"conversationId\":\"GEDTC-183058\",\"clientRequestId\":\"new:GEDTC-183058:3e17a6ae-fff7-41ad-a1a3-b1e86656abe8\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"clientRequestDate\":\"2025-10-13T07:58:53.254Z\",\"messageType\":\"text/plain\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"status\":1} ",
+      "timestamp": 1760342333255
+    },
+    "receivedAt": "2025-10-13T14:58:59.475394"
+  },
+  {
+    "timestamp": "2025-10-13T07:58:59.956Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:3e17a6ae-fff7-41ad-a1a3-b1e86656abe8, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760342333255
+    },
+    "receivedAt": "2025-10-13T14:58:59.644858"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:00.135Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342333260
+    },
+    "receivedAt": "2025-10-13T14:58:59.813114"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:00.183Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342335346
+    },
+    "receivedAt": "2025-10-13T14:58:59.876672"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:00.284Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342333288
+    },
+    "receivedAt": "2025-10-13T14:58:59.978866"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:00.367Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342335349
+    },
+    "receivedAt": "2025-10-13T14:59:00.027817"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:00.450Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342333288
+    },
+    "receivedAt": "2025-10-13T14:59:00.126562"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:00.517Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342335589
+    },
+    "receivedAt": "2025-10-13T14:59:00.188598"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:00.602Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342333293
+    },
+    "receivedAt": "2025-10-13T14:59:00.329499"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:00.667Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "outgoing chatroom message sent:,{\"kind\":\"OutgoingMessage\",\"message\":\"6\",\"conversationId\":\"GEDTC-183058\",\"clientRequestId\":\"new:GEDTC-183058:dd2b82c0-d7fb-4528-afbc-22137275be82\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"clientRequestDate\":\"2025-10-13T07:58:56.135Z\",\"messageType\":\"text/plain\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"status\":1} ",
+      "timestamp": 1760342336135
+    },
+    "receivedAt": "2025-10-13T14:59:00.362926"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:00.804Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342333299
+    },
+    "receivedAt": "2025-10-13T14:59:00.493734"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:00.832Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:dd2b82c0-d7fb-4528-afbc-22137275be82, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760342336135
+    },
+    "receivedAt": "2025-10-13T14:59:00.509340"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:00.958Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342333306
+    },
+    "receivedAt": "2025-10-13T14:59:00.647118"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:00.970Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342336141
+    },
+    "receivedAt": "2025-10-13T14:59:00.647118"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:01.110Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342333316
+    },
+    "receivedAt": "2025-10-13T14:59:00.798838"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:01.140Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342336162
+    },
+    "receivedAt": "2025-10-13T14:59:00.814457"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:01.277Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342333390
+    },
+    "receivedAt": "2025-10-13T14:59:01.281010"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:01.277Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342336162
+    },
+    "receivedAt": "2025-10-13T14:59:01.290132"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:01.768Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342333423
+    },
+    "receivedAt": "2025-10-13T14:59:01.511433"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:01.769Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342336172
+    },
+    "receivedAt": "2025-10-13T14:59:01.527066"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:01.985Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342333560
+    },
+    "receivedAt": "2025-10-13T14:59:01.651348"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:01.986Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342336178
+    },
+    "receivedAt": "2025-10-13T14:59:01.651348"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:02.118Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:3e17a6ae-fff7-41ad-a1a3-b1e86656abe8, messageId: 20251013075853191#5ew3WWztBulmymio5dMXce ",
+      "timestamp": 1760342333678
+    },
+    "receivedAt": "2025-10-13T14:59:01.783613"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:02.135Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342336187
+    },
+    "receivedAt": "2025-10-13T14:59:01.847726"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:02.251Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:3e17a6ae-fff7-41ad-a1a3-b1e86656abe8",
+        "clientRequestDate": 1760342333254,
+        "messageId": "20251013075853191#5ew3WWztBulmymio5dMXce",
+        "createAt": "2025-10-13T07:58:53.191Z"
+      },
+      "timestamp": 1760342333678
+    },
+    "receivedAt": "2025-10-13T14:59:01.933861"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:02.316Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342336195
+    },
+    "receivedAt": "2025-10-13T14:59:02.301237"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:02.399Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342333684
+    },
+    "receivedAt": "2025-10-13T14:59:02.350799"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:02.800Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342336273
+    },
+    "receivedAt": "2025-10-13T14:59:02.485890"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:02.817Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Received_Message,{\"eventType\":\"chatroom.message\",\"traceId\":\"1-68ecb13d-1515cce43236d7062557bd2e\",\"eventData\":{\"clientRequestId\":\"new:GEDTC-183058:3e17a6ae-fff7-41ad-a1a3-b1e86656abe8\",\"clientRequestDate\":\"2025-10-13T07:58:53.254Z\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"messageId\":\"20251013075853191#5ew3WWztBulmymio5dMXce\",\"createAt\":\"2025-10-13T07:58:53.191Z\",\"messageType\":\"text/plain\",\"message\":\"5\",\"attachments\":[],\"isBot\":f",
+      "timestamp": 1760342333701
+    },
+    "receivedAt": "2025-10-13T14:59:02.501502"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:02.950Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342336306
+    },
+    "receivedAt": "2025-10-13T14:59:02.641995"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:02.968Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342333711
+    },
+    "receivedAt": "2025-10-13T14:59:02.655364"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:03.120Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342336441
+    },
+    "receivedAt": "2025-10-13T14:59:02.801626"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:03.121Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342333719
+    },
+    "receivedAt": "2025-10-13T14:59:02.817153"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:03.274Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:dd2b82c0-d7fb-4528-afbc-22137275be82, messageId: 20251013075856073#1CprxPImAWDA3Pwc9aE4vj ",
+      "timestamp": 1760342336560
+    },
+    "receivedAt": "2025-10-13T14:59:03.288729"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:03.284Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342333825
+    },
+    "receivedAt": "2025-10-13T14:59:03.306068"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:03.768Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342334574
+    },
+    "receivedAt": "2025-10-13T14:59:03.458022"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:03.769Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:dd2b82c0-d7fb-4528-afbc-22137275be82",
+        "clientRequestDate": 1760342336135,
+        "messageId": "20251013075856073#1CprxPImAWDA3Pwc9aE4vj",
+        "createAt": "2025-10-13T07:58:56.073Z"
+      },
+      "timestamp": 1760342336560
+    },
+    "receivedAt": "2025-10-13T14:59:03.474614"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:03.951Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342336566
+    },
+    "receivedAt": "2025-10-13T14:59:03.632241"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:04.117Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Received_Message,{\"eventType\":\"chatroom.message\",\"traceId\":\"1-68ecb140-7797f9544747402d3e48de56\",\"eventData\":{\"clientRequestId\":\"new:GEDTC-183058:dd2b82c0-d7fb-4528-afbc-22137275be82\",\"clientRequestDate\":\"2025-10-13T07:58:56.135Z\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"messageId\":\"20251013075856073#1CprxPImAWDA3Pwc9aE4vj\",\"createAt\":\"2025-10-13T07:58:56.073Z\",\"messageType\":\"text/plain\",\"message\":\"6\",\"attachments\":[],\"isBot\":f",
+      "timestamp": 1760342336584
+    },
+    "receivedAt": "2025-10-13T14:59:03.803751"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:04.282Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342336594
+    },
+    "receivedAt": "2025-10-13T14:59:04.220231"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:04.700Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342336601
+    },
+    "receivedAt": "2025-10-13T14:59:04.391342"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:04.866Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342336702
+    },
+    "receivedAt": "2025-10-13T14:59:04.544421"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:05.016Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342338456
+    },
+    "receivedAt": "2025-10-13T14:59:04.699356"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:05.093Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "outgoing chatroom message sent:,{\"kind\":\"OutgoingMessage\",\"message\":\"8\",\"conversationId\":\"GEDTC-183058\",\"clientRequestId\":\"new:GEDTC-183058:45102d13-bb01-4f64-88ca-2892b788062e\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"clientRequestDate\":\"2025-10-13T07:59:00.790Z\",\"messageType\":\"text/plain\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"status\":1} ",
+      "timestamp": 1760342340790
+    },
+    "receivedAt": "2025-10-13T14:59:04.766366"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:05.183Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342345100
+    },
+    "receivedAt": "2025-10-13T14:59:04.863508"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:05.193Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342338460
+    },
+    "receivedAt": "2025-10-13T14:59:04.863508"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:05.241Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:45102d13-bb01-4f64-88ca-2892b788062e, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760342340790
+    },
+    "receivedAt": "2025-10-13T14:59:04.909613"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:05.334Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342345108
+    },
+    "receivedAt": "2025-10-13T14:59:05.026268"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:05.369Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "outgoing chatroom message sent:,{\"kind\":\"OutgoingMessage\",\"message\":\"7\",\"conversationId\":\"GEDTC-183058\",\"clientRequestId\":\"new:GEDTC-183058:fd179325-e609-47a6-b2be-54c2569d6193\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"clientRequestDate\":\"2025-10-13T07:58:58.491Z\",\"messageType\":\"text/plain\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"status\":1} ",
+      "timestamp": 1760342338491
+    },
+    "receivedAt": "2025-10-13T14:59:05.427357"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:05.376Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342340795
+    },
+    "receivedAt": "2025-10-13T14:59:05.435060"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:05.492Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342345115
+    },
+    "receivedAt": "2025-10-13T14:59:05.451716"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:05.900Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:fd179325-e609-47a6-b2be-54c2569d6193, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760342338491
+    },
+    "receivedAt": "2025-10-13T14:59:05.570511"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:05.916Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342340822
+    },
+    "receivedAt": "2025-10-13T14:59:05.592930"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:06.033Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342338495
+    },
+    "receivedAt": "2025-10-13T14:59:05.720137"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:06.069Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342340822
+    },
+    "receivedAt": "2025-10-13T14:59:05.744004"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:06.200Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342338520
+    },
+    "receivedAt": "2025-10-13T14:59:05.880006"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:06.217Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342340828
+    },
+    "receivedAt": "2025-10-13T14:59:05.893581"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:06.367Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342340836
+    },
+    "receivedAt": "2025-10-13T14:59:06.348259"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:06.367Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342338520
+    },
+    "receivedAt": "2025-10-13T14:59:06.348259"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:06.820Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342340844
+    },
+    "receivedAt": "2025-10-13T14:59:06.483863"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:06.820Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342338525
+    },
+    "receivedAt": "2025-10-13T14:59:06.499490"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:06.950Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342340851
+    },
+    "receivedAt": "2025-10-13T14:59:06.700721"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:06.975Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342338532
+    },
+    "receivedAt": "2025-10-13T14:59:06.716347"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:07.200Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342338540
+    },
+    "receivedAt": "2025-10-13T14:59:06.869960"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:07.333Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342338551
+    },
+    "receivedAt": "2025-10-13T14:59:07.008767"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:07.166Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342340923
+    },
+    "receivedAt": "2025-10-13T14:59:07.094780"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:07.499Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342338606
+    },
+    "receivedAt": "2025-10-13T14:59:07.166935"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:07.583Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342340957
+    },
+    "receivedAt": "2025-10-13T14:59:07.287620"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:07.666Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342338623
+    },
+    "receivedAt": "2025-10-13T14:59:07.352307"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:07.748Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342341107
+    },
+    "receivedAt": "2025-10-13T14:59:07.422466"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:07.833Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342338648
+    },
+    "receivedAt": "2025-10-13T14:59:07.534861"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:07.902Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:45102d13-bb01-4f64-88ca-2892b788062e, messageId: 20251013075900731#5eEj1grvJetvfw3zoLJZxo ",
+      "timestamp": 1760342341210
+    },
+    "receivedAt": "2025-10-13T14:59:07.569259"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:08.053Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:45102d13-bb01-4f64-88ca-2892b788062e",
+        "clientRequestDate": 1760342340790,
+        "messageId": "20251013075900731#5eEj1grvJetvfw3zoLJZxo",
+        "createAt": "2025-10-13T07:59:00.731Z"
+      },
+      "timestamp": 1760342341211
+    },
+    "receivedAt": "2025-10-13T14:59:08.040760"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:08.016Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342338806
+    },
+    "receivedAt": "2025-10-13T14:59:08.058194"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:08.547Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342341219
+    },
+    "receivedAt": "2025-10-13T14:59:08.210626"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:08.548Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:fd179325-e609-47a6-b2be-54c2569d6193, messageId: 20251013075858426#7FSSIIIPlYK2zMcBzXzhAH ",
+      "timestamp": 1760342338917
+    },
+    "receivedAt": "2025-10-13T14:59:08.214533"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:08.674Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Received_Message,{\"eventType\":\"chatroom.message\",\"traceId\":\"1-68ecb144-13c748b404ec3d4a4c5f691d\",\"eventData\":{\"clientRequestId\":\"new:GEDTC-183058:45102d13-bb01-4f64-88ca-2892b788062e\",\"clientRequestDate\":\"2025-10-13T07:59:00.790Z\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"messageId\":\"20251013075900731#5eEj1grvJetvfw3zoLJZxo\",\"createAt\":\"2025-10-13T07:59:00.731Z\",\"messageType\":\"text/plain\",\"message\":\"8\",\"attachments\":[],\"isBot\":f",
+      "timestamp": 1760342341256
+    },
+    "receivedAt": "2025-10-13T14:59:08.371147"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:08.703Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:fd179325-e609-47a6-b2be-54c2569d6193",
+        "clientRequestDate": 1760342338491,
+        "messageId": "20251013075858426#7FSSIIIPlYK2zMcBzXzhAH",
+        "createAt": "2025-10-13T07:58:58.426Z"
+      },
+      "timestamp": 1760342338918
+    },
+    "receivedAt": "2025-10-13T14:59:08.386782"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:08.836Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342341267
+    },
+    "receivedAt": "2025-10-13T14:59:08.506432"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:08.867Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Received_Message,{\"eventType\":\"chatroom.message\",\"traceId\":\"1-68ecb142-3b93f37b685074886b2695ee\",\"eventData\":{\"clientRequestId\":\"new:GEDTC-183058:fd179325-e609-47a6-b2be-54c2569d6193\",\"clientRequestDate\":\"2025-10-13T07:58:58.491Z\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"messageId\":\"20251013075858426#7FSSIIIPlYK2zMcBzXzhAH\",\"createAt\":\"2025-10-13T07:58:58.426Z\",\"messageType\":\"text/plain\",\"message\":\"7\",\"attachments\":[],\"isBot\":f",
+      "timestamp": 1760342338936
+    },
+    "receivedAt": "2025-10-13T14:59:08.539174"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:08.985Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342341274
+    },
+    "receivedAt": "2025-10-13T14:59:08.996594"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:09.002Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342338943
+    },
+    "receivedAt": "2025-10-13T14:59:09.012234"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:09.423Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342345190
+    },
+    "receivedAt": "2025-10-13T14:59:09.107356"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:09.460Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342341374
+    },
+    "receivedAt": "2025-10-13T14:59:09.133207"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:09.475Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342338951
+    },
+    "receivedAt": "2025-10-13T14:59:09.148011"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:09.568Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342345222
+    },
+    "receivedAt": "2025-10-13T14:59:09.629669"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:09.633Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342338962
+    },
+    "receivedAt": "2025-10-13T14:59:09.798732"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:09.617Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342341923
+    },
+    "receivedAt": "2025-10-13T14:59:09.956457"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:10.119Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342345374
+    },
+    "receivedAt": "2025-10-13T14:59:10.136776"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:10.633Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:d60f5efd-dc85-4df2-8b3b-54a18a83ab26, messageId: 20251013075904991#24nyqwLH95msxNEKIjSdmL ",
+      "timestamp": 1760342345482
+    },
+    "receivedAt": "2025-10-13T14:59:10.344697"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:10.283Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342339071
+    },
+    "receivedAt": "2025-10-13T14:59:10.362219"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:10.451Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342341927
+    },
+    "receivedAt": "2025-10-13T14:59:10.377857"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:10.819Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:d60f5efd-dc85-4df2-8b3b-54a18a83ab26",
+        "clientRequestDate": 1760342345060,
+        "messageId": "20251013075904991#24nyqwLH95msxNEKIjSdmL",
+        "createAt": "2025-10-13T07:59:04.991Z"
+      },
+      "timestamp": 1760342345483
+    },
+    "receivedAt": "2025-10-13T14:59:10.499786"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:10.842Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342339620
+    },
+    "receivedAt": "2025-10-13T14:59:10.530954"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:10.842Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342342609
+    },
+    "receivedAt": "2025-10-13T14:59:10.530954"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:10.986Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342345491
+    },
+    "receivedAt": "2025-10-13T14:59:11.002412"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:11.002Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342339889
+    },
+    "receivedAt": "2025-10-13T14:59:11.018778"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:11.002Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "outgoing chatroom message sent:,{\"kind\":\"OutgoingMessage\",\"message\":\"9\",\"conversationId\":\"GEDTC-183058\",\"clientRequestId\":\"new:GEDTC-183058:91c62d71-a0b5-4bce-8038-efa517935cba\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"clientRequestDate\":\"2025-10-13T07:59:03.108Z\",\"messageType\":\"text/plain\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"status\":1} ",
+      "timestamp": 1760342343108
+    },
+    "receivedAt": "2025-10-13T14:59:11.038115"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:11.500Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Received_Message,{\"eventType\":\"chatroom.message\",\"traceId\":\"1-68ecb148-102441b61051c6ac78440fa9\",\"eventData\":{\"clientRequestId\":\"new:GEDTC-183058:d60f5efd-dc85-4df2-8b3b-54a18a83ab26\",\"clientRequestDate\":\"2025-10-13T07:59:05.060Z\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"messageId\":\"20251013075904991#24nyqwLH95msxNEKIjSdmL\",\"createAt\":\"2025-10-13T07:59:04.991Z\",\"messageType\":\"text/plain\",\"message\":\"10\",\"attachments\":[],\"isBot\":",
+      "timestamp": 1760342345527
+    },
+    "receivedAt": "2025-10-13T14:59:11.317090"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:11.503Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342339893
+    },
+    "receivedAt": "2025-10-13T14:59:11.317090"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:11.503Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:91c62d71-a0b5-4bce-8038-efa517935cba, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760342343108
+    },
+    "receivedAt": "2025-10-13T14:59:11.325495"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:11.781Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342345542
+    },
+    "receivedAt": "2025-10-13T14:59:11.470435"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:11.799Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342343113
+    },
+    "receivedAt": "2025-10-13T14:59:11.487064"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:11.951Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342345549
+    },
+    "receivedAt": "2025-10-13T14:59:11.635017"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:11.952Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342343139
+    },
+    "receivedAt": "2025-10-13T14:59:11.652314"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:12.118Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342343139
+    },
+    "receivedAt": "2025-10-13T14:59:12.183738"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:12.650Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342343145
+    },
+    "receivedAt": "2025-10-13T14:59:12.321770"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:12.816Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342343153
+    },
+    "receivedAt": "2025-10-13T14:59:12.505321"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:12.984Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342343162
+    },
+    "receivedAt": "2025-10-13T14:59:12.682130"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:12.101Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342345656
+    },
+    "receivedAt": "2025-10-13T14:59:12.858213"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:13.173Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342343170
+    },
+    "receivedAt": "2025-10-13T14:59:12.858213"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:13.338Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342343239
+    },
+    "receivedAt": "2025-10-13T14:59:13.010841"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:13.341Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342346607
+    },
+    "receivedAt": "2025-10-13T14:59:13.033907"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:13.500Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342343272
+    },
+    "receivedAt": "2025-10-13T14:59:13.214624"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:13.501Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "outgoing chatroom message sent:,{\"kind\":\"OutgoingMessage\",\"message\":\"11\",\"conversationId\":\"GEDTC-183058\",\"clientRequestId\":\"new:GEDTC-183058:9317822d-74c0-4c56-bd7e-86e63293c699\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"clientRequestDate\":\"2025-10-13T07:59:06.805Z\",\"messageType\":\"text/plain\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"status\":1} ",
+      "timestamp": 1760342346805
+    },
+    "receivedAt": "2025-10-13T14:59:13.225302"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:13.702Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:9317822d-74c0-4c56-bd7e-86e63293c699, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760342346805
+    },
+    "receivedAt": "2025-10-13T14:59:13.390992"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:13.702Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342343422
+    },
+    "receivedAt": "2025-10-13T14:59:13.403913"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:13.882Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342346839
+    },
+    "receivedAt": "2025-10-13T14:59:13.557848"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:13.882Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342343623
+    },
+    "receivedAt": "2025-10-13T14:59:13.575540"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:14.051Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342346839
+    },
+    "receivedAt": "2025-10-13T14:59:13.722966"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:14.052Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:91c62d71-a0b5-4bce-8038-efa517935cba, messageId: 20251013075903465#2PGsEmC8hDjeMHFIe1SwJ6 ",
+      "timestamp": 1760342343962
+    },
+    "receivedAt": "2025-10-13T14:59:13.744548"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:14.221Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:91c62d71-a0b5-4bce-8038-efa517935cba",
+        "clientRequestDate": 1760342343108,
+        "messageId": "20251013075903465#2PGsEmC8hDjeMHFIe1SwJ6",
+        "createAt": "2025-10-13T07:59:03.465Z"
+      },
+      "timestamp": 1760342343963
+    },
+    "receivedAt": "2025-10-13T14:59:13.923642"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:14.222Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342346845
+    },
+    "receivedAt": "2025-10-13T14:59:13.923642"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:14.387Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342343969
+    },
+    "receivedAt": "2025-10-13T14:59:14.063490"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:14.417Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342346854
+    },
+    "receivedAt": "2025-10-13T14:59:14.432102"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:14.614Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342350608
+    },
+    "receivedAt": "2025-10-13T14:59:14.447742"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:14.867Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Received_Message,{\"eventType\":\"chatroom.message\",\"traceId\":\"1-68ecb147-4eaf907d299d6e5913f815e5\",\"eventData\":{\"clientRequestId\":\"new:GEDTC-183058:91c62d71-a0b5-4bce-8038-efa517935cba\",\"clientRequestDate\":\"2025-10-13T07:59:03.108Z\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"messageId\":\"20251013075903465#2PGsEmC8hDjeMHFIe1SwJ6\",\"createAt\":\"2025-10-13T07:59:03.465Z\",\"messageType\":\"text/plain\",\"message\":\"9\",\"attachments\":[],\"isBot\":f",
+      "timestamp": 1760342343987
+    },
+    "receivedAt": "2025-10-13T14:59:14.559549"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:14.904Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342346861
+    },
+    "receivedAt": "2025-10-13T14:59:14.593700"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:14.931Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "outgoing chatroom message sent:,{\"kind\":\"OutgoingMessage\",\"message\":\"13\",\"conversationId\":\"GEDTC-183058\",\"clientRequestId\":\"new:GEDTC-183058:016493d1-8e9f-4680-9ade-846d98ee1bae\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"clientRequestDate\":\"2025-10-13T07:59:10.672Z\",\"messageType\":\"text/plain\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"status\":1} ",
+      "timestamp": 1760342350672
+    },
+    "receivedAt": "2025-10-13T14:59:14.615340"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:15.059Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342343996
+    },
+    "receivedAt": "2025-10-13T14:59:14.755717"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:15.060Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342346872
+    },
+    "receivedAt": "2025-10-13T14:59:14.755717"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:15.251Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342346939
+    },
+    "receivedAt": "2025-10-13T14:59:15.395802"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:15.093Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:016493d1-8e9f-4680-9ade-846d98ee1bae, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760342350673
+    },
+    "receivedAt": "2025-10-13T14:59:15.395802"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:15.205Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342354638
+    },
+    "receivedAt": "2025-10-13T14:59:15.405619"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:15.868Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342354638
+    },
+    "receivedAt": "2025-10-13T14:59:15.564037"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:15.221Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342344003
+    },
+    "receivedAt": "2025-10-13T14:59:15.578132"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:15.868Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342346973
+    },
+    "receivedAt": "2025-10-13T14:59:15.580276"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:16.052Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342354644
+    },
+    "receivedAt": "2025-10-13T14:59:16.099571"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:15.868Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342350704
+    },
+    "receivedAt": "2025-10-13T14:59:16.099571"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:16.051Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342344106
+    },
+    "receivedAt": "2025-10-13T14:59:16.116660"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:16.052Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:9317822d-74c0-4c56-bd7e-86e63293c699, messageId: 20251013075907079#tVjscb6ZyjU36wq5FIvn4 ",
+      "timestamp": 1760342347562
+    },
+    "receivedAt": "2025-10-13T14:59:16.116660"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:16.567Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342354651
+    },
+    "receivedAt": "2025-10-13T14:59:16.566507"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:16.583Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342350705
+    },
+    "receivedAt": "2025-10-13T14:59:16.584213"
+  },
+  {
+    "timestamp": "2025-10-13T07:59:16.583Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760342344939
+    },
+    "receivedAt": "2025-10-13T14:59:16.584213"
+  }
+]

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Extraction Logic</title>
+</head>
+<body>
+    <h1>Test Page for Refinitiv Messenger Extraction</h1>
+
+    <!-- Mock View History Button -->
+    <button data-testid="view-history-button">View Conversation History</button>
+
+    <!-- Mock Date Divider -->
+    <div class="Divider">
+        <span class="Text">Today, September 22, 2025</span>
+    </div>
+
+    <!-- Mock Message with Contact -->
+    <div class="MessageWithContact">
+        <div class="ContactName">
+            <div data-testid="tooltip-container">John Doe</div>
+        </div>
+        <div class="Company">
+            <div data-testid="tooltip-container">JPMorgan Chase</div>
+        </div>
+        <div class="message-body">Hello, this is a test message from John.</div>
+        <div class="Timestamp">10:30 AM</div>
+    </div>
+
+    <!-- Mock Outgoing Message -->
+    <div class="OutgoingMessage">
+        <div class="message-body">This is my reply to John's message.</div>
+        <div class="Timestamp">10:32 AM</div>
+    </div>
+
+    <!-- Mock Incoming Message -->
+    <div class="IncomingMessage">
+        <div class="message-body">Got it, thanks for the quick response!</div>
+        <div class="Timestamp">10:35 AM</div>
+    </div>
+
+    <script>
+        // Include the extraction logic from content.js
+        function scrapeMessages() {
+            console.log('📝 Scraping...');
+            var results = [];
+            var currentName = '';
+            var currentBank = '';
+            var currentDate = '';
+
+            // Lấy tất cả elements (bao gồm Divider và Messages)
+            var allElements = document.querySelectorAll('[class*="Divider"], [class*="MessageWithContact"], [class*="OutgoingMessage"], [class*="IncomingMessage"]');
+
+            allElements.forEach(function(el) {
+                // Kiểm tra nếu là Divider (chứa ngày)
+                if (el.className.indexOf('Divider') > -1) {
+                    var dateEl = el.querySelector('span[class*="Text"]');
+                    if (dateEl) {
+                        currentDate = dateEl.textContent.trim();
+                        console.log('📅 Ngày: ' + currentDate);
+                    }
+                    return;
+                }
+
+                // Kiểm tra contact info
+                if (el.className.indexOf('MessageWithContact') > -1) {
+                    var nameEl = el.querySelector('[class*="ContactName"] [data-testid="tooltip-container"]');
+                    if (nameEl) currentName = nameEl.textContent.trim();
+
+                    var bankEl = el.querySelector('[class*="Company"] [data-testid="tooltip-container"]');
+                    if (bankEl) currentBank = bankEl.textContent.trim();
+                }
+
+                // Lấy message
+                var msgBody = el.querySelector('.message-body');
+                if (!msgBody) return;
+
+                var content = msgBody.textContent.trim();
+                var time = '';
+                var sender = '';
+
+                var timeEl = el.querySelector('[class*="Timestamp"]');
+                if (timeEl) time = timeEl.textContent.trim();
+
+                if (el.className.indexOf('OutgoingMessage') > -1) {
+                    sender = 'Bạn';
+                } else {
+                    sender = currentName + ' - ' + currentBank;
+                }
+
+                // Format: [Ngày - Giờ] Người gửi: Nội dung
+                var formattedMessage = '[' + currentDate + ' - ' + time + '] ' + sender + ': ' + content;
+                results.push({
+                    raw: formattedMessage,
+                    date: currentDate,
+                    time: time,
+                    sender: sender,
+                    content: content,
+                    name: currentName,
+                    bank: currentBank
+                });
+            });
+
+            results.forEach(function(msg, i) {
+                console.log((i+1) + '. ' + msg.raw);
+            });
+
+            console.log('\n✅ Đã scrape ' + results.length + ' tin nhắn!');
+            return results;
+        }
+
+        // Test the extraction
+        function testExtraction() {
+            console.clear();
+            console.log('🧪 Testing extraction logic...');
+
+            const messages = scrapeMessages();
+
+            console.log('\n📊 Test Results:');
+            console.log('Total messages:', messages.length);
+            console.log('Messages:', messages);
+
+            return messages;
+        }
+
+        // Make functions available globally
+        window.testExtraction = testExtraction;
+        window.scrapeMessages = scrapeMessages;
+
+        // Auto-run test on page load
+        window.addEventListener('load', function() {
+            setTimeout(testExtraction, 1000);
+        });
+    </script>
+</body>
+</html>

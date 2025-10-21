@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Date Parsing Test</title>
+    <style>
+        body {
+            font-family: monospace;
+            padding: 20px;
+            background: #1e1e1e;
+            color: #d4d4d4;
+        }
+        .test-case {
+            margin: 10px 0;
+            padding: 10px;
+            background: #2d2d2d;
+            border-left: 3px solid #007acc;
+        }
+        .pass { border-left-color: #4ec9b0; }
+        .fail { border-left-color: #f48771; }
+        h1 { color: #4ec9b0; }
+        h2 { color: #569cd6; }
+    </style>
+</head>
+<body>
+    <h1>📅 Date Parsing Function Test</h1>
+    <div id="results"></div>
+
+    <script>
+        // Copy the date parsing functions from content.js
+        function formatDate(date) {
+            const year = date.getFullYear();
+            const month = String(date.getMonth() + 1).padStart(2, '0');
+            const day = String(date.getDate()).padStart(2, '0');
+            return `${year}-${month}-${day}`;
+        }
+
+        function convertToISODate(dateString) {
+            dateString = dateString.trim();
+
+            // Try DD/MM/YYYY format
+            const ddmmyyyyPattern = /^(\d{1,2})\/(\d{1,2})\/(\d{4})$/;
+            const match = dateString.match(ddmmyyyyPattern);
+            if (match) {
+                const day = match[1].padStart(2, '0');
+                const month = match[2].padStart(2, '0');
+                const year = match[3];
+                return `${year}-${month}-${day}`;
+            }
+
+            // Try MM/DD/YYYY format
+            const mmddyyyyPattern = /^(\d{1,2})\/(\d{1,2})\/(\d{4})$/;
+            const matchUS = dateString.match(mmddyyyyPattern);
+            if (matchUS) {
+                const month = matchUS[1].padStart(2, '0');
+                const day = matchUS[2].padStart(2, '0');
+                const year = matchUS[3];
+                return `${year}-${month}-${day}`;
+            }
+
+            // If can't parse, use today
+            return formatDate(new Date());
+        }
+
+        function parseDate(dateString) {
+            const today = new Date();
+
+            if (dateString === 'Today' || dateString === 'Hôm nay') {
+                return formatDate(today);
+            } else if (dateString === 'Yesterday' || dateString === 'Hôm qua') {
+                const yesterday = new Date(today);
+                yesterday.setDate(yesterday.getDate() - 1);
+                return formatDate(yesterday);
+            } else if (dateString.includes('Unread messages') || dateString.includes('Tin nhắn chưa đọc')) {
+                return formatDate(today);
+            } else if (dateString.includes('/')) {
+                return convertToISODate(dateString);
+            } else {
+                return formatDate(today);
+            }
+        }
+
+        // Test cases
+        const testCases = [
+            { input: 'Today', description: 'English "Today"' },
+            { input: 'Hôm nay', description: 'Vietnamese "Today"' },
+            { input: 'Yesterday', description: 'English "Yesterday"' },
+            { input: 'Hôm qua', description: 'Vietnamese "Yesterday"' },
+            { input: 'Unread messages', description: 'Unread messages' },
+            { input: 'Tin nhắn chưa đọc', description: 'Vietnamese "Unread messages"' },
+            { input: '15/09/2025', description: 'Date format DD/MM/YYYY' },
+            { input: '1/10/2025', description: 'Date format D/M/YYYY' },
+            { input: '09/15/2025', description: 'Date format MM/DD/YYYY (US)' },
+            { input: 'Random text', description: 'Unknown format (fallback to today)' }
+        ];
+
+        // Get expected values
+        const today = formatDate(new Date());
+        const yesterday = (() => {
+            const d = new Date();
+            d.setDate(d.getDate() - 1);
+            return formatDate(d);
+        })();
+
+        const expectedResults = {
+            'Today': today,
+            'Hôm nay': today,
+            'Yesterday': yesterday,
+            'Hôm qua': yesterday,
+            'Unread messages': today,
+            'Tin nhắn chưa đọc': today,
+            '15/09/2025': '2025-09-15',
+            '1/10/2025': '2025-10-01',
+            '09/15/2025': '2025-09-15',
+            'Random text': today
+        };
+
+        // Run tests
+        const resultsDiv = document.getElementById('results');
+        let passed = 0;
+        let failed = 0;
+
+        testCases.forEach((testCase, index) => {
+            const result = parseDate(testCase.input);
+            const expected = expectedResults[testCase.input];
+            const isPassed = result === expected;
+
+            if (isPassed) passed++;
+            else failed++;
+
+            const div = document.createElement('div');
+            div.className = `test-case ${isPassed ? 'pass' : 'fail'}`;
+            div.innerHTML = `
+                <strong>Test ${index + 1}:</strong> ${testCase.description}<br>
+                <strong>Input:</strong> "${testCase.input}"<br>
+                <strong>Expected:</strong> ${expected}<br>
+                <strong>Got:</strong> ${result}<br>
+                <strong>Status:</strong> ${isPassed ? '✅ PASS' : '❌ FAIL'}
+            `;
+            resultsDiv.appendChild(div);
+        });
+
+        // Summary
+        const summary = document.createElement('h2');
+        summary.textContent = `Summary: ${passed} passed, ${failed} failed`;
+        summary.style.marginTop = '20px';
+        resultsDiv.insertBefore(summary, resultsDiv.firstChild);
+
+        console.log('Test Results:', { passed, failed });
+    </script>
+</body>
+</html>

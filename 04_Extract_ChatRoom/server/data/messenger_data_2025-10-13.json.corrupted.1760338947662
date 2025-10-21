@@ -1,0 +1,2526 @@
+[
+  {
+    "timestamp": "2025-10-13T06:51:47.564Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338304047
+    },
+    "receivedAt": "2025-10-13T13:51:48.090217"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:47.575Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "outgoing chatroom message sent:,{\"kind\":\"OutgoingMessage\",\"message\":\"12\",\"conversationId\":\"GEDTC-183058\",\"clientRequestId\":\"new:GEDTC-183058:c0d63c20-f195-4918-a060-efa789e47cac\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"clientRequestDate\":\"2025-10-13T06:51:42.706Z\",\"messageType\":\"text/plain\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"status\":1} ",
+      "timestamp": 1760338302707
+    },
+    "receivedAt": "2025-10-13T13:51:48.104733"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:47.604Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338300061
+    },
+    "receivedAt": "2025-10-13T13:51:48.121058"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:47.614Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338297894
+    },
+    "receivedAt": "2025-10-13T13:51:48.127066"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:47.735Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338304058
+    },
+    "receivedAt": "2025-10-13T13:51:48.256480"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:47.735Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:c0d63c20-f195-4918-a060-efa789e47cac, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760338302707
+    },
+    "receivedAt": "2025-10-13T13:51:48.272074"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:47.748Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338300075
+    },
+    "receivedAt": "2025-10-13T13:51:48.289674"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:47.764Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338298347
+    },
+    "receivedAt": "2025-10-13T13:51:48.305978"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:47.896Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338304067
+    },
+    "receivedAt": "2025-10-13T13:51:48.425676"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:47.912Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338302737
+    },
+    "receivedAt": "2025-10-13T13:51:48.441300"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:47.920Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338300177
+    },
+    "receivedAt": "2025-10-13T13:51:48.441300"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:47.928Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338298544
+    },
+    "receivedAt": "2025-10-13T13:51:48.456924"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:48.065Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338304079
+    },
+    "receivedAt": "2025-10-13T13:51:48.606642"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:48.066Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338302737
+    },
+    "receivedAt": "2025-10-13T13:51:48.617170"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:48.087Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338298562
+    },
+    "receivedAt": "2025-10-13T13:51:48.617170"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:48.250Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:ca8a036e-e749-4289-837e-04d73c94f2a7, messageId: 20251013065138944#562RcSDYbstIFCGGAwiPN4 ",
+      "timestamp": 1760338298652
+    },
+    "receivedAt": "2025-10-13T13:51:49.108644"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:48.251Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338304096
+    },
+    "receivedAt": "2025-10-13T13:51:49.130121"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:48.249Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338302743
+    },
+    "receivedAt": "2025-10-13T13:51:49.130121"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:48.766Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338302756
+    },
+    "receivedAt": "2025-10-13T13:51:49.260035"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:48.767Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:ca8a036e-e749-4289-837e-04d73c94f2a7",
+        "clientRequestDate": 1760338296913,
+        "messageId": "20251013065138944#562RcSDYbstIFCGGAwiPN4",
+        "createAt": "2025-10-13T06:51:38.944Z"
+      },
+      "timestamp": 1760338298654
+    },
+    "receivedAt": "2025-10-13T13:51:49.291132"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:48.768Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338304133
+    },
+    "receivedAt": "2025-10-13T13:51:49.291132"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:48.902Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338302763
+    },
+    "receivedAt": "2025-10-13T13:51:49.427541"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:48.933Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338304169
+    },
+    "receivedAt": "2025-10-13T13:51:49.778787"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:48.934Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338298692
+    },
+    "receivedAt": "2025-10-13T13:51:49.789455"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:49.067Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338302807
+    },
+    "receivedAt": "2025-10-13T13:51:49.805095"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:49.447Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338302846
+    },
+    "receivedAt": "2025-10-13T13:51:50.210848"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:49.432Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338304208
+    },
+    "receivedAt": "2025-10-13T13:51:50.383144"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:49.448Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338298692
+    },
+    "receivedAt": "2025-10-13T13:51:50.550259"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:49.868Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338302863
+    },
+    "receivedAt": "2025-10-13T13:51:50.696955"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:50.014Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "outgoing chatroom message sent:,{\"kind\":\"OutgoingMessage\",\"message\":\"15\",\"conversationId\":\"GEDTC-183058\",\"clientRequestId\":\"new:GEDTC-183058:6ecbeb2c-5a2a-4be7-898b-97884e856189\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"clientRequestDate\":\"2025-10-13T06:51:44.556Z\",\"messageType\":\"text/plain\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"status\":1} ",
+      "timestamp": 1760338304556
+    },
+    "receivedAt": "2025-10-13T13:51:50.876207"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:50.182Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338298705
+    },
+    "receivedAt": "2025-10-13T13:51:50.966730"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:50.353Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338303133
+    },
+    "receivedAt": "2025-10-13T13:51:50.982356"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:50.514Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:6ecbeb2c-5a2a-4be7-898b-97884e856189, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760338304556
+    },
+    "receivedAt": "2025-10-13T13:51:50.999669"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:50.599Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Received_Message,{\"eventType\":\"chatroom.message\",\"traceId\":\"1-68eca17a-18d46b992fec91c541b2c059\",\"eventData\":{\"clientRequestId\":\"new:GEDTC-183058:ca8a036e-e749-4289-837e-04d73c94f2a7\",\"clientRequestDate\":\"2025-10-13T06:51:36.913Z\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"messageId\":\"20251013065138944#562RcSDYbstIFCGGAwiPN4\",\"createAt\":\"2025-10-13T06:51:38.944Z\",\"messageType\":\"text/plain\",\"message\":\"8\",\"attachments\":[],\"isBot\":f",
+      "timestamp": 1760338298727
+    },
+    "receivedAt": "2025-10-13T13:51:51.117496"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:50.631Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338303154
+    },
+    "receivedAt": "2025-10-13T13:51:51.151364"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:50.631Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:176435c5-27a7-4dcc-a157-8ca324ce2c0f, messageId: 20251013065145097#XKg6wck6o3ujP3qL8driP ",
+      "timestamp": 1760338304803
+    },
+    "receivedAt": "2025-10-13T13:51:51.167003"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:50.765Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338298741
+    },
+    "receivedAt": "2025-10-13T13:51:51.294807"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:50.791Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338303362
+    },
+    "receivedAt": "2025-10-13T13:51:51.317920"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:50.792Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:176435c5-27a7-4dcc-a157-8ca324ce2c0f",
+        "clientRequestDate": 1760338303978,
+        "messageId": "20251013065145097#XKg6wck6o3ujP3qL8driP",
+        "createAt": "2025-10-13T06:51:45.097Z"
+      },
+      "timestamp": 1760338304803
+    },
+    "receivedAt": "2025-10-13T13:51:51.317920"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:50.862Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338306350
+    },
+    "receivedAt": "2025-10-13T13:51:51.368084"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:50.932Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338298747
+    },
+    "receivedAt": "2025-10-13T13:51:51.463370"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:50.963Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:c0d63c20-f195-4918-a060-efa789e47cac, messageId: 20251013065143773#3e4H7dkfmQsd149gmOh7HF ",
+      "timestamp": 1760338303468
+    },
+    "receivedAt": "2025-10-13T13:51:51.478999"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:50.981Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338304823
+    },
+    "receivedAt": "2025-10-13T13:51:51.494621"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:51.015Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338307355
+    },
+    "receivedAt": "2025-10-13T13:51:51.536092"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:51.132Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338304823
+    },
+    "receivedAt": "2025-10-13T13:51:51.664815"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:51.133Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:c0d63c20-f195-4918-a060-efa789e47cac",
+        "clientRequestDate": 1760338302706,
+        "messageId": "20251013065143773#3e4H7dkfmQsd149gmOh7HF",
+        "createAt": "2025-10-13T06:51:43.773Z"
+      },
+      "timestamp": 1760338303468
+    },
+    "receivedAt": "2025-10-13T13:51:51.665324"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:51.181Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760338310862,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 13:51:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 6",
+          "date": "2025-10-13",
+          "time": "13:51:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "6",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:37] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 7",
+          "date": "2025-10-13",
+          "time": "13:51:37",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "7",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 8",
+          "date": "2025-10-13",
+          "time": "13:51:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "8",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:39] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 9",
+          "date": "2025-10-13",
+          "time": "13:51:39",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "9",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 10",
+          "date": "2025-10-13",
+          "time": "13:51:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "10",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 11",
+          "date": "2025-10-13",
+          "time": "13:51:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "11",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:43] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 12",
+          "date": "2025-10-13",
+          "time": "13:51:43",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "12",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 13",
+          "date": "2025-10-13",
+          "time": "13:51:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "13",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:45] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 14",
+          "date": "2025-10-13",
+          "time": "13:51:45",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "14",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:45] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 15",
+          "date": "2025-10-13",
+          "time": "13:51:45",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "15",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T13:51:51.696589"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:51.571Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338303484
+    },
+    "receivedAt": "2025-10-13T13:51:52.089639"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:51.730Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "outgoing chatroom message sent:,{\"kind\":\"OutgoingMessage\",\"message\":\"13\",\"conversationId\":\"GEDTC-183058\",\"clientRequestId\":\"new:GEDTC-183058:2d83b04d-1923-485c-bfe0-f453a39874c7\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"clientRequestDate\":\"2025-10-13T06:51:43.487Z\",\"messageType\":\"text/plain\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"status\":1} ",
+      "timestamp": 1760338303487
+    },
+    "receivedAt": "2025-10-13T13:51:52.265287"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:51.299Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338304829
+    },
+    "receivedAt": "2025-10-13T13:51:52.818186"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:51.902Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:2d83b04d-1923-485c-bfe0-f453a39874c7, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760338303487
+    },
+    "receivedAt": "2025-10-13T13:51:52.832106"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:52.447Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Received_Message,{\"eventType\":\"chatroom.message\",\"traceId\":\"1-68eca181-40b1d2247e85c43226670a23\",\"eventData\":{\"clientRequestId\":\"new:GEDTC-183058:176435c5-27a7-4dcc-a157-8ca324ce2c0f\",\"clientRequestDate\":\"2025-10-13T06:51:43.978Z\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"messageId\":\"20251013065145097#XKg6wck6o3ujP3qL8driP\",\"createAt\":\"2025-10-13T06:51:45.097Z\",\"messageType\":\"text/plain\",\"message\":\"14\",\"attachments\":[],\"isBot\":f",
+      "timestamp": 1760338304852
+    },
+    "receivedAt": "2025-10-13T13:51:53.024709"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:52.466Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338303495
+    },
+    "receivedAt": "2025-10-13T13:51:53.363955"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:52.648Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338304862
+    },
+    "receivedAt": "2025-10-13T13:51:53.403669"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:53.033Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338303536
+    },
+    "receivedAt": "2025-10-13T13:51:53.563988"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:53.034Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338304871
+    },
+    "receivedAt": "2025-10-13T13:51:53.563988"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:53.199Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338303536
+    },
+    "receivedAt": "2025-10-13T13:51:53.842131"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:53.216Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338304881
+    },
+    "receivedAt": "2025-10-13T13:51:53.856281"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:53.497Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338304903
+    },
+    "receivedAt": "2025-10-13T13:51:54.049496"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:53.498Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Received_Message,{\"eventType\":\"chatroom.message\",\"traceId\":\"1-68eca17f-7829dd8a3c604c273fb6b97b\",\"eventData\":{\"clientRequestId\":\"new:GEDTC-183058:c0d63c20-f195-4918-a060-efa789e47cac\",\"clientRequestDate\":\"2025-10-13T06:51:42.706Z\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"messageId\":\"20251013065143773#3e4H7dkfmQsd149gmOh7HF\",\"createAt\":\"2025-10-13T06:51:43.773Z\",\"messageType\":\"text/plain\",\"message\":\"12\",\"attachments\":[],\"isBot\":",
+      "timestamp": 1760338303555
+    },
+    "receivedAt": "2025-10-13T13:51:54.082213"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:53.715Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338304914
+    },
+    "receivedAt": "2025-10-13T13:51:54.248127"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:53.729Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338303568
+    },
+    "receivedAt": "2025-10-13T13:51:54.263690"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:53.882Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338304925
+    },
+    "receivedAt": "2025-10-13T13:51:54.448800"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:53.899Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338303576
+    },
+    "receivedAt": "2025-10-13T13:51:54.466862"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:54.098Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338304970
+    },
+    "receivedAt": "2025-10-13T13:51:54.602106"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:54.099Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338303582
+    },
+    "receivedAt": "2025-10-13T13:51:54.617733"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:54.263Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338303592
+    },
+    "receivedAt": "2025-10-13T13:51:54.782829"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:54.264Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338305019
+    },
+    "receivedAt": "2025-10-13T13:51:54.789073"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:54.431Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338303612
+    },
+    "receivedAt": "2025-10-13T13:51:54.952332"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:54.432Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:6ecbeb2c-5a2a-4be7-898b-97884e856189, messageId: 20251013065145562#4NmxxTzzcy34GM0DrfhD4m ",
+      "timestamp": 1760338305265
+    },
+    "receivedAt": "2025-10-13T13:51:54.969043"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:54.599Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:6ecbeb2c-5a2a-4be7-898b-97884e856189",
+        "clientRequestDate": 1760338304556,
+        "messageId": "20251013065145562#4NmxxTzzcy34GM0DrfhD4m",
+        "createAt": "2025-10-13T06:51:45.562Z"
+      },
+      "timestamp": 1760338305266
+    },
+    "receivedAt": "2025-10-13T13:51:55.096446"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:54.600Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338303622
+    },
+    "receivedAt": "2025-10-13T13:51:55.115738"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:54.763Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338305282
+    },
+    "receivedAt": "2025-10-13T13:51:55.648231"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:55.297Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Received_Message,{\"eventType\":\"chatroom.message\",\"traceId\":\"1-68eca181-3afe2d1d26704ea345adf058\",\"eventData\":{\"clientRequestId\":\"new:GEDTC-183058:6ecbeb2c-5a2a-4be7-898b-97884e856189\",\"clientRequestDate\":\"2025-10-13T06:51:44.556Z\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"messageId\":\"20251013065145562#4NmxxTzzcy34GM0DrfhD4m\",\"createAt\":\"2025-10-13T06:51:45.562Z\",\"messageType\":\"text/plain\",\"message\":\"15\",\"attachments\":[],\"isBot\":",
+      "timestamp": 1760338305326
+    },
+    "receivedAt": "2025-10-13T13:51:55.820949"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:55.447Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338305341
+    },
+    "receivedAt": "2025-10-13T13:51:55.971787"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:55.613Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338305351
+    },
+    "receivedAt": "2025-10-13T13:51:56.134944"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:55.766Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338305460
+    },
+    "receivedAt": "2025-10-13T13:51:56.301139"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:54.764Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338303641
+    },
+    "receivedAt": "2025-10-13T13:51:56.316764"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:55.948Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338303708
+    },
+    "receivedAt": "2025-10-13T13:51:56.465755"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:56.113Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338303719
+    },
+    "receivedAt": "2025-10-13T13:51:56.623632"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:56.281Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338303797
+    },
+    "receivedAt": "2025-10-13T13:51:56.804845"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:56.463Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:2d83b04d-1923-485c-bfe0-f453a39874c7, messageId: 20251013065144251#3Q4Lpn6yJbSTNendCTIFtO ",
+      "timestamp": 1760338303946
+    },
+    "receivedAt": "2025-10-13T13:51:57.005572"
+  },
+  {
+    "timestamp": "2025-10-13T06:51:56.646Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:2d83b04d-1923-485c-bfe0-f453a39874c7",
+        "clientRequestDate": 1760338303487,
+        "messageId": "20251013065144251#3Q4Lpn6yJbSTNendCTIFtO",
+        "createAt": "2025-10-13T06:51:44.251Z"
+      },
+      "timestamp": 1760338303947
+    },
+    "receivedAt": "2025-10-13T13:51:57.159291"
+  },
+  {
+    "timestamp": "2025-10-13T06:52:20.868Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760338340868,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 13:51:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 6",
+          "date": "2025-10-13",
+          "time": "13:51:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "6",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:37] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 7",
+          "date": "2025-10-13",
+          "time": "13:51:37",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "7",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 8",
+          "date": "2025-10-13",
+          "time": "13:51:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "8",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:39] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 9",
+          "date": "2025-10-13",
+          "time": "13:51:39",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "9",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 10",
+          "date": "2025-10-13",
+          "time": "13:51:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "10",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 11",
+          "date": "2025-10-13",
+          "time": "13:51:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "11",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:43] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 12",
+          "date": "2025-10-13",
+          "time": "13:51:43",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "12",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 13",
+          "date": "2025-10-13",
+          "time": "13:51:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "13",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:45] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 14",
+          "date": "2025-10-13",
+          "time": "13:51:45",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "14",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:45] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 15",
+          "date": "2025-10-13",
+          "time": "13:51:45",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "15",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T13:52:21.501541"
+  },
+  {
+    "timestamp": "2025-10-13T06:52:30.904Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Set preferences - normal,{\"EIKONLIGHT.MESSENGER.RECENT_CONVERSATION.SETTING\":[{\"id\":\"recentTab\",\"value\":\"chats\"},{\"id\":\"recentActiveChats\",\"value\":\"GEDTC-183058\"}],\"timestamp\":\"1760338305282\",\"EIKONLIGHT.MESSENGER.RECENT_CONVERSATION.LIST\":{\"recentList\":[{\"id\":\"GEDTC-183058\",\"type\":\"conversation\",\"isMuted\":false,\"isShowing\":true},{\"id\":\"SL1-26AWX-6672\",\"type\":\"conversation\",\"isMuted\":false,\"isShowing\":true}],\"pinList\":[]},\"EIKONLIGHT.MESSENGER.CONVERSATIONS.DETAILS\":{\"GEDTC-183058\":{\"id\":\"GEDTC-",
+      "timestamp": 1760338350528
+    },
+    "receivedAt": "2025-10-13T13:52:31.722165"
+  },
+  {
+    "timestamp": "2025-10-13T06:52:31.407Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "put",
+      "url": "https://messenger.refinitiv.com/api/clpprod-user-setting/collab/settings/preferences",
+      "status": 200,
+      "response": "",
+      "timestamp": 1760338350529
+    },
+    "receivedAt": "2025-10-13T13:52:32.525447"
+  },
+  {
+    "timestamp": "2025-10-13T06:52:50.909Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760338370909,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 13:51:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 6",
+          "date": "2025-10-13",
+          "time": "13:51:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "6",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:37] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 7",
+          "date": "2025-10-13",
+          "time": "13:51:37",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "7",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 8",
+          "date": "2025-10-13",
+          "time": "13:51:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "8",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:39] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 9",
+          "date": "2025-10-13",
+          "time": "13:51:39",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "9",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 10",
+          "date": "2025-10-13",
+          "time": "13:51:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "10",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 11",
+          "date": "2025-10-13",
+          "time": "13:51:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "11",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:43] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 12",
+          "date": "2025-10-13",
+          "time": "13:51:43",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "12",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 13",
+          "date": "2025-10-13",
+          "time": "13:51:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "13",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:45] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 14",
+          "date": "2025-10-13",
+          "time": "13:51:45",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "14",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:45] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 15",
+          "date": "2025-10-13",
+          "time": "13:51:45",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "15",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T13:52:51.602328"
+  },
+  {
+    "timestamp": "2025-10-13T06:53:21.604Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338400247
+    },
+    "receivedAt": "2025-10-13T13:53:22.110787"
+  },
+  {
+    "timestamp": "2025-10-13T06:53:22.689Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760338401604,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 13:51:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 6",
+          "date": "2025-10-13",
+          "time": "13:51:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "6",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:37] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 7",
+          "date": "2025-10-13",
+          "time": "13:51:37",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "7",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 8",
+          "date": "2025-10-13",
+          "time": "13:51:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "8",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:39] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 9",
+          "date": "2025-10-13",
+          "time": "13:51:39",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "9",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 10",
+          "date": "2025-10-13",
+          "time": "13:51:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "10",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 11",
+          "date": "2025-10-13",
+          "time": "13:51:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "11",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:43] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 12",
+          "date": "2025-10-13",
+          "time": "13:51:43",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "12",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 13",
+          "date": "2025-10-13",
+          "time": "13:51:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "13",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:45] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 14",
+          "date": "2025-10-13",
+          "time": "13:51:45",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "14",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:45] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 15",
+          "date": "2025-10-13",
+          "time": "13:51:45",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "15",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T13:53:23.060513"
+  },
+  {
+    "timestamp": "2025-10-13T06:53:26.695Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338401713
+    },
+    "receivedAt": "2025-10-13T13:53:27.063272"
+  },
+  {
+    "timestamp": "2025-10-13T06:53:51.711Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760338431709,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 13:51:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 6",
+          "date": "2025-10-13",
+          "time": "13:51:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "6",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:37] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 7",
+          "date": "2025-10-13",
+          "time": "13:51:37",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "7",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 8",
+          "date": "2025-10-13",
+          "time": "13:51:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "8",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:39] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 9",
+          "date": "2025-10-13",
+          "time": "13:51:39",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "9",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 10",
+          "date": "2025-10-13",
+          "time": "13:51:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "10",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 11",
+          "date": "2025-10-13",
+          "time": "13:51:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "11",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:43] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 12",
+          "date": "2025-10-13",
+          "time": "13:51:43",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "12",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 13",
+          "date": "2025-10-13",
+          "time": "13:51:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "13",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:45] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 14",
+          "date": "2025-10-13",
+          "time": "13:51:45",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "14",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:45] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 15",
+          "date": "2025-10-13",
+          "time": "13:51:45",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "15",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T13:53:52.150487"
+  },
+  {
+    "timestamp": "2025-10-13T06:54:39.810Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760338479810,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 13:51:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 6",
+          "date": "2025-10-13",
+          "time": "13:51:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "6",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:37] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 7",
+          "date": "2025-10-13",
+          "time": "13:51:37",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "7",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 8",
+          "date": "2025-10-13",
+          "time": "13:51:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "8",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:39] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 9",
+          "date": "2025-10-13",
+          "time": "13:51:39",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "9",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 10",
+          "date": "2025-10-13",
+          "time": "13:51:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "10",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 11",
+          "date": "2025-10-13",
+          "time": "13:51:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "11",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:43] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 12",
+          "date": "2025-10-13",
+          "time": "13:51:43",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "12",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 13",
+          "date": "2025-10-13",
+          "time": "13:51:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "13",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:45] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 14",
+          "date": "2025-10-13",
+          "time": "13:51:45",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "14",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:45] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 15",
+          "date": "2025-10-13",
+          "time": "13:51:45",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "15",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T13:54:40.455760"
+  },
+  {
+    "timestamp": "2025-10-13T06:56:39.964Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760338539890,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 13:51:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 6",
+          "date": "2025-10-13",
+          "time": "13:51:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "6",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:37] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 7",
+          "date": "2025-10-13",
+          "time": "13:51:37",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "7",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 8",
+          "date": "2025-10-13",
+          "time": "13:51:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "8",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:39] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 9",
+          "date": "2025-10-13",
+          "time": "13:51:39",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "9",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 10",
+          "date": "2025-10-13",
+          "time": "13:51:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "10",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 11",
+          "date": "2025-10-13",
+          "time": "13:51:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "11",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:43] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 12",
+          "date": "2025-10-13",
+          "time": "13:51:43",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "12",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 13",
+          "date": "2025-10-13",
+          "time": "13:51:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "13",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:45] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 14",
+          "date": "2025-10-13",
+          "time": "13:51:45",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "14",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:45] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 15",
+          "date": "2025-10-13",
+          "time": "13:51:45",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "15",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T13:56:40.110905"
+  },
+  {
+    "timestamp": "2025-10-13T07:01:50.008Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338905014
+    },
+    "receivedAt": "2025-10-13T14:01:50.100410"
+  },
+  {
+    "timestamp": "2025-10-13T07:01:50.991Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338907005
+    },
+    "receivedAt": "2025-10-13T14:01:51.053344"
+  },
+  {
+    "timestamp": "2025-10-13T07:01:52.020Z",
+    "type": "page_snapshot",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "timestamp": 1760338912020,
+      "url": "https://messenger.refinitiv.com/messenger/",
+      "title": "LSEG Messenger",
+      "messages": [
+        {
+          "raw": "[2025-10-13 13:51:36] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 6",
+          "date": "2025-10-13",
+          "time": "13:51:36",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "6",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:37] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 7",
+          "date": "2025-10-13",
+          "time": "13:51:37",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "7",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:38] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 8",
+          "date": "2025-10-13",
+          "time": "13:51:38",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "8",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:39] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 9",
+          "date": "2025-10-13",
+          "time": "13:51:39",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "9",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:40] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 10",
+          "date": "2025-10-13",
+          "time": "13:51:40",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "10",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:42] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 11",
+          "date": "2025-10-13",
+          "time": "13:51:42",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "11",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:43] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 12",
+          "date": "2025-10-13",
+          "time": "13:51:43",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "12",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:44] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 13",
+          "date": "2025-10-13",
+          "time": "13:51:44",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "13",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:45] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 14",
+          "date": "2025-10-13",
+          "time": "13:51:45",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "14",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        },
+        {
+          "raw": "[2025-10-13 13:51:45] (Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank): 15",
+          "date": "2025-10-13",
+          "time": "13:51:45",
+          "sender": "Dzung Nguyen - Vietnam Maritime Commercial Joint Stock Bank",
+          "content": "15",
+          "name": "Nguyen Tuan Anh",
+          "bank": "Vietnam Maritime Commercial Joint Stock Bank"
+        }
+      ]
+    },
+    "receivedAt": "2025-10-13T14:01:52.056859"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:16.311Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338932254
+    },
+    "receivedAt": "2025-10-13T14:02:16.434227"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:16.555Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338933259
+    },
+    "receivedAt": "2025-10-13T14:02:16.614685"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:16.755Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338936249
+    },
+    "receivedAt": "2025-10-13T14:02:16.803027"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:21.312Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338937263
+    },
+    "receivedAt": "2025-10-13T14:02:21.364387"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:21.493Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "outgoing chatroom message sent:,{\"kind\":\"OutgoingMessage\",\"message\":\"16\",\"conversationId\":\"GEDTC-183058\",\"clientRequestId\":\"new:GEDTC-183058:299cd49d-0d82-43fc-bddd-d4072141e940\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"clientRequestDate\":\"2025-10-13T07:02:19.149Z\",\"messageType\":\"text/plain\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"status\":1} ",
+      "timestamp": 1760338939149
+    },
+    "receivedAt": "2025-10-13T14:02:21.574344"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:21.688Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:299cd49d-0d82-43fc-bddd-d4072141e940, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760338939151
+    },
+    "receivedAt": "2025-10-13T14:02:21.759197"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:21.875Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338939203
+    },
+    "receivedAt": "2025-10-13T14:02:21.908106"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:22.021Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338939203
+    },
+    "receivedAt": "2025-10-13T14:02:22.058927"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:22.198Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338939219
+    },
+    "receivedAt": "2025-10-13T14:02:22.257384"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:22.391Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338939233
+    },
+    "receivedAt": "2025-10-13T14:02:22.458638"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:22.589Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338939241
+    },
+    "receivedAt": "2025-10-13T14:02:22.626875"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:22.772Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338939291
+    },
+    "receivedAt": "2025-10-13T14:02:23.086708"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:23.227Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338939353
+    },
+    "receivedAt": "2025-10-13T14:02:23.290445"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:23.455Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338940002
+    },
+    "receivedAt": "2025-10-13T14:02:23.512256"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:23.622Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338940014
+    },
+    "receivedAt": "2025-10-13T14:02:23.654706"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:23.775Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "outgoing chatroom message sent:,{\"kind\":\"OutgoingMessage\",\"message\":\"17\",\"conversationId\":\"GEDTC-183058\",\"clientRequestId\":\"new:GEDTC-183058:c982a439-d2bb-44d8-9cf2-7e0bdcc41cd0\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"clientRequestDate\":\"2025-10-13T07:02:20.346Z\",\"messageType\":\"text/plain\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"status\":1} ",
+      "timestamp": 1760338940346
+    },
+    "receivedAt": "2025-10-13T14:02:23.821906"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:23.928Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338941476
+    },
+    "receivedAt": "2025-10-13T14:02:23.934168"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:23.938Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:c982a439-d2bb-44d8-9cf2-7e0bdcc41cd0, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760338940347
+    },
+    "receivedAt": "2025-10-13T14:02:23.982927"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:24.057Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "outgoing chatroom message sent:,{\"kind\":\"OutgoingMessage\",\"message\":\"18\",\"conversationId\":\"GEDTC-183058\",\"clientRequestId\":\"new:GEDTC-183058:2cd2d303-755f-473e-b0bb-7d9c22d8a567\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"clientRequestDate\":\"2025-10-13T07:02:21.481Z\",\"messageType\":\"text/plain\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"status\":1} ",
+      "timestamp": 1760338941481
+    },
+    "receivedAt": "2025-10-13T14:02:24.113822"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:24.105Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338940356
+    },
+    "receivedAt": "2025-10-13T14:02:24.150810"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:24.243Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Payload, clientRequestId: new:GEDTC-183058:2cd2d303-755f-473e-b0bb-7d9c22d8a567, adjustedConversationId: GEDTC-183058, chatRoomId: i2i:d1ea61f867ad63376728ec12a8532d3d ",
+      "timestamp": 1760338941481
+    },
+    "receivedAt": "2025-10-13T14:02:24.316478"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:24.270Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338940373
+    },
+    "receivedAt": "2025-10-13T14:02:24.327923"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:24.454Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338941512
+    },
+    "receivedAt": "2025-10-13T14:02:24.507617"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:24.455Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338940467
+    },
+    "receivedAt": "2025-10-13T14:02:24.507617"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:24.622Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338941512
+    },
+    "receivedAt": "2025-10-13T14:02:24.658731"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:24.792Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338941519
+    },
+    "receivedAt": "2025-10-13T14:02:25.060678"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:25.189Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338941534
+    },
+    "receivedAt": "2025-10-13T14:02:25.233106"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:25.360Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338941543
+    },
+    "receivedAt": "2025-10-13T14:02:25.431477"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:25.573Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338941612
+    },
+    "receivedAt": "2025-10-13T14:02:25.636770"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:24.638Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:299cd49d-0d82-43fc-bddd-d4072141e940, messageId: 20251013070220354#19TdJOvl03fcYQy1O3Fc5H ",
+      "timestamp": 1760338940547
+    },
+    "receivedAt": "2025-10-13T14:02:25.847518"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:25.767Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338941646
+    },
+    "receivedAt": "2025-10-13T14:02:25.864539"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:25.980Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:299cd49d-0d82-43fc-bddd-d4072141e940",
+        "clientRequestDate": 1760338939149,
+        "messageId": "20251013070220354#19TdJOvl03fcYQy1O3Fc5H",
+        "createAt": "2025-10-13T07:02:20.354Z"
+      },
+      "timestamp": 1760338940548
+    },
+    "receivedAt": "2025-10-13T14:02:26.036171"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:25.982Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:2cd2d303-755f-473e-b0bb-7d9c22d8a567, messageId: 20251013070221859#3XSFNoTJC6mSMaRD3L4NGk ",
+      "timestamp": 1760338942022
+    },
+    "receivedAt": "2025-10-13T14:02:26.036171"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:26.157Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338940586
+    },
+    "receivedAt": "2025-10-13T14:02:26.201462"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:26.173Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:2cd2d303-755f-473e-b0bb-7d9c22d8a567",
+        "clientRequestDate": 1760338941481,
+        "messageId": "20251013070221859#3XSFNoTJC6mSMaRD3L4NGk",
+        "createAt": "2025-10-13T07:02:21.859Z"
+      },
+      "timestamp": 1760338942022
+    },
+    "receivedAt": "2025-10-13T14:02:26.225776"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:26.306Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338943977
+    },
+    "receivedAt": "2025-10-13T14:02:26.344466"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:26.341Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338940586
+    },
+    "receivedAt": "2025-10-13T14:02:26.370918"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:26.341Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338942030
+    },
+    "receivedAt": "2025-10-13T14:02:26.383327"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:26.491Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338944110
+    },
+    "receivedAt": "2025-10-13T14:02:26.587703"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:26.492Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Received_Message,{\"eventType\":\"chatroom.message\",\"traceId\":\"1-68eca3fd-53ab8f595d54c0060ba793bf\",\"eventData\":{\"clientRequestId\":\"new:GEDTC-183058:2cd2d303-755f-473e-b0bb-7d9c22d8a567\",\"clientRequestDate\":\"2025-10-13T07:02:21.481Z\",\"chatRoomId\":\"i2i:d1ea61f867ad63376728ec12a8532d3d\",\"messengerUuid\":\"GEDTC-323802\",\"userUuid\":\"GEDTC-323802\",\"messageId\":\"20251013070221859#3XSFNoTJC6mSMaRD3L4NGk\",\"createAt\":\"2025-10-13T07:02:21.859Z\",\"messageType\":\"text/plain\",\"message\":\"18\",\"attachments\":[],\"isBot\":",
+      "timestamp": 1760338942061
+    },
+    "receivedAt": "2025-10-13T14:02:26.598590"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:26.493Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338940609
+    },
+    "receivedAt": "2025-10-13T14:02:26.925243"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:27.008Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338942083
+    },
+    "receivedAt": "2025-10-13T14:02:27.116326"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:27.007Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "console_log",
+      "message": "Post_Message:Received, clientRequestId: new:GEDTC-183058:2724d9f5-7175-4931-b846-fe636e710cd4, messageId: 20251013070224065#KSfAtGSSJJe2XYdAzvNmC ",
+      "timestamp": 1760338944243
+    },
+    "receivedAt": "2025-10-13T14:02:27.127276"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:27.209Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338940623
+    },
+    "receivedAt": "2025-10-13T14:02:27.269676"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:27.242Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338942099
+    },
+    "receivedAt": "2025-10-13T14:02:27.295501"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:27.267Z",
+    "type": "network_request",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "fetch_response",
+      "method": "post",
+      "url": "https://messenger.refinitiv.com/api/clpprod-message/collab/message/send",
+      "status": 200,
+      "response": {
+        "clientRequestId": "new:GEDTC-183058:2724d9f5-7175-4931-b846-fe636e710cd4",
+        "clientRequestDate": 1760338943799,
+        "messageId": "20251013070224065#KSfAtGSSJJe2XYdAzvNmC",
+        "createAt": "2025-10-13T07:02:24.065Z"
+      },
+      "timestamp": 1760338944244
+    },
+    "receivedAt": "2025-10-13T14:02:27.295501"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:27.410Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338940637
+    },
+    "receivedAt": "2025-10-13T14:02:27.455562"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:27.447Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338942197
+    },
+    "receivedAt": "2025-10-13T14:02:27.471170"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:27.447Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338944250
+    },
+    "receivedAt": "2025-10-13T14:02:27.486797"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:27.605Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338940658
+    },
+    "receivedAt": "2025-10-13T14:02:27.651720"
+  },
+  {
+    "timestamp": "2025-10-13T07:02:27.606Z",
+    "type": "dom_chat",
+    "url": "https://messenger.refinitiv.com/messenger/",
+    "data": {
+      "type": "chat_change",
+      "elementId": "chats",
+      "content": "CHATS",
+      "timestamp": 1760338942614
+    },
+    "receivedAt": "2025-10-13T14:02:27.662726"
+  }
+]

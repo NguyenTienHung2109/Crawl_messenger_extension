@@ -1,0 +1,101 @@
+﻿start_idx,start_trader,start_bank,start_time,start_date,genai_success,error,start_price,start_volume,start_side,reply_trader,reply_bank,reply_volume,confirm_trader,deal_status
+0,Thanh Thai Nguyen,VIB,17:04:11,"October 22, 2024",False,no_json,,,,,,,,
+5,Vu Thi Thu Hoai,ABBK,17:04:32,"October 22, 2024",False,no_json,,,,,,,,
+14,Toan Nguyen Duy,MB,17:05:30,"October 22, 2024",False,no_json,,,,,,,,
+25,Hoang Minh An,VNTT,17:10:29,"October 22, 2024",False,no_json,,,,,,,,
+27,Le Bao Khanh,TCB,17:10:35,"October 22, 2024",False,no_json,,,,,,,,
+34,Dong Vu Trong,VCB,17:11:24,"October 22, 2024",False,no_json,,,,,,,,
+56,Truong Quang Hai,MB,17:18:40,"October 22, 2024",False,no_json,,,,,,,,
+61,Vu Thi Thu Hoai,ABBK,08:18:03,"October 23, 2024",True,,460.0,4.0,SELL,Hoang Minh An,VNTT,4.0,Phuc Pham Van,confirmed
+389,Vu Thi Thu Hoai,ABBK,09:42:58,"October 23, 2024",False,no_json,,,,,,,,
+437,Vu Thi Thu Hoai,ABBK,09:46:54,"October 23, 2024",False,no_json,,,,,,,,
+315,Phuc Pham Van,ABBK,09:31:45,"October 23, 2024",False,no_json,,,,,,,,
+320,Phuc Pham Van,ABBK,09:32:16,"October 23, 2024",False,no_json,,,,,,,,
+366,Phuc Pham Van,ABBK,09:39:31,"October 23, 2024",False,no_json,,,,,,,,
+375,Phuc Pham Van,ABBK,09:41:36,"October 23, 2024",False,no_json,,,,,,,,
+429,Phuc Pham Van,ABBK,09:46:22,"October 23, 2024",False,no_json,,,,,,,,
+453,Phuc Pham Van,ABBK,09:50:17,"October 23, 2024",False,no_json,,,,,,,,
+476,Phuc Pham Van,ABBK,09:53:55,"October 23, 2024",False,no_json,,,,,,,,
+485,Phuc Pham Van,ABBK,09:55:16,"October 23, 2024",False,no_json,,,,,,,,
+503,Phuc Pham Van,ABBK,09:56:32,"October 23, 2024",False,no_json,,,,,,,,
+510,Phuc Pham Van,ABBK,09:57:48,"October 23, 2024",False,no_json,,,,,,,,
+532,Phuc Pham Van,ABBK,10:00:33,"October 23, 2024",False,no_json,,,,,,,,
+535,Phuc Pham Van,ABBK,10:02:11,"October 23, 2024",False,no_json,,,,,,,,
+544,Phuc Pham Van,ABBK,10:05:28,"October 23, 2024",False,no_json,,,,,,,,
+576,Phuc Pham Van,ABBK,10:11:09,"October 23, 2024",False,no_json,,,,,,,,
+605,Phuc Pham Van,ABBK,10:21:07,"October 23, 2024",False,no_json,,,,,,,,
+607,Phuc Pham Van,ABBK,10:23:35,"October 23, 2024",False,no_json,,,,,,,,
+719,Phuc Pham Van,ABBK,11:09:10,"October 23, 2024",False,no_json,,,,,,,,
+721,Phuc Pham Van,ABBK,11:10:54,"October 23, 2024",False,no_json,,,,,,,,
+1008,Phuc Pham Van,ABBK,14:15:43,"October 23, 2024",False,no_json,,,,,,,,
+1047,Phuc Pham Van,ABBK,14:41:23,"October 23, 2024",True,,25.0,3.0,BID,Doan Duy Nguyen,SABH,2.0,Doan Duy Nguyen,confirmed
+1315,Vu Thi Thu Hoai,ABBK,15:46:38,"October 23, 2024",False,no_json,,,,,,,,
+65,Quang Tang Truong,VBAH,08:18:34,"October 23, 2024",False,no_json,,,,,,,,
+185,Quang Tang Truong,VBAH,09:03:39,"October 23, 2024",False,no_json,,,,,,,,
+656,Quang Tang Truong,VBAH,10:31:00,"October 23, 2024",False,no_json,,,,,,,,
+666,Quang Tang Truong,VBAH,10:34:12,"October 23, 2024",False,no_json,,,,,,,,
+669,Quang Tang Truong,VBAH,10:34:55,"October 23, 2024",True,,96.0,2.0,ASK,Tiep Le Ba,VPB,0.0,,none
+671,Quang Tang Truong,VBAH,10:36:22,"October 23, 2024",False,no_json,,,,,,,,
+679,Quang Tang Truong,VBAH,10:38:33,"October 23, 2024",False,no_json,,,,,,,,
+66,Hoang Minh An,VNTT,08:18:40,"October 23, 2024",False,no_json,,,,,,,,
+372,Hoang Minh An,VNTT,09:41:06,"October 23, 2024",False,no_json,,,,,,,,
+1039,Tran Anh Huy,ACB,14:34:27,"October 23, 2024",False,no_json,,,,,,,,
+74,Phuc Pham Van,ABBK,08:21:47,"October 23, 2024",False,no_json,,,,,,,,
+85,Phuc Pham Van,ABBK,08:32:35,"October 23, 2024",False,no_json,,,,,,,,
+89,Phuc Pham Van,ABBK,08:33:10,"October 23, 2024",False,no_json,,,,,,,,
+95,Phuc Pham Van,ABBK,08:36:14,"October 23, 2024",False,no_json,,,,,,,,
+111,Phuc Pham Van,ABBK,08:44:43,"October 23, 2024",False,no_json,,,,,,,,
+121,Phuc Pham Van,ABBK,08:46:57,"October 23, 2024",False,no_json,,,,,,,,
+141,Phuc Pham Van,ABBK,08:53:43,"October 23, 2024",True,,25.0,3.0,BID,Thanh Thai Nguyen,VIB,2.0,Tran Ngoc Thanh Lan,confirmed
+157,Phuc Pham Van,ABBK,08:56:47,"October 23, 2024",True,,25.0,3.0,BID,Vu Cong Khanh,ICBV,3.0,Phuc Pham Van,confirmed
+196,Phuc Pham Van,ABBK,09:04:35,"October 23, 2024",False,no_json,,,,,,,,
+378,Hoang Minh An,VNTT,09:41:52,"October 23, 2024",False,no_json,,,,,,,,
+818,Hoang Minh An,VNTT,13:37:26,"October 23, 2024",True,,7.0,5.0,BID,Trinh Duc An,SEAV,2.0,Hoang Minh An,confirmed
+1104,Hoang Minh An,VNTT,14:46:57,"October 23, 2024",True,,33.0,3.0,BID,Phuc Pham Van,ABBK,3.0,Hoang Minh An,confirmed
+69,Tran Anh Huy,ACB,08:18:50,"October 23, 2024",False,no_json,,,,,,,,
+266,Tran Anh Huy,ACB,09:21:43,"October 23, 2024",False,no_json,,,,,,,,
+475,Tran Anh Huy,ACB,09:53:51,"October 23, 2024",True,,93.0,4.0,BID,Vu Thi Thu Hoai,ABBK,15.0,Vu Thi Thu Hoai,confirmed
+573,Tran Anh Huy,ACB,10:10:29,"October 23, 2024",False,no_json,,,,,,,,
+650,Tran Anh Huy,ACB,10:30:12,"October 23, 2024",True,,89.0,3.0,BID,Tuan Pham Minh,VPB,3.0,Quang Tang Truong,confirmed
+796,Tran Anh Huy,ACB,13:18:42,"October 23, 2024",False,no_json,,,,,,,,
+1037,Tran Anh Huy,ACB,14:31:33,"October 23, 2024",False,no_json,,,,,,,,
+442,Vu Thi Thu Hoai,ABBK,09:47:35,"October 23, 2024",False,no_json,,,,,,,,
+467,Vu Thi Thu Hoai,ABBK,09:51:59,"October 23, 2024",False,no_json,,,,,,,,
+664,Vu Thi Thu Hoai,ABBK,10:33:38,"October 23, 2024",False,no_json,,,,,,,,
+692,Vu Thi Thu Hoai,ABBK,10:49:32,"October 23, 2024",True,,95.0,3.0,BID,Toan Nguyen Duy,MB,3.0,Lam Nong Nhu Y,confirmed
+831,Vu Thi Thu Hoai,ABBK,13:39:49,"October 23, 2024",False,no_json,,,,,,,,
+873,Vu Thi Thu Hoai,ABBK,13:45:42,"October 23, 2024",False,no_json,,,,,,,,
+911,Vu Thi Thu Hoai,ABBK,13:59:09,"October 23, 2024",True,,15.0,15.0,BID,Thanh Nguyen,NCB,15.0,Thu Hoai,confirmed
+1026,Vu Thi Thu Hoai,ABBK,14:20:31,"October 23, 2024",False,no_json,,,,,,,,
+1283,Vu Thi Thu Hoai,ABBK,15:25:36,"October 23, 2024",True,,20.0,3.0,BID,Nguyen Quang Huy,LVBT,3.0,Vu Thi Thu Hoai,confirmed
+1313,Vu Thi Thu Hoai,ABBK,15:46:08,"October 23, 2024",False,no_json,,,,,,,,
+1054,Phuc Pham Van,ABBK,14:43:03,"October 23, 2024",True,,25.0,2.0,BID,Minh Nguyen Huu Duc,MSB,2.0,Phuc Pham Van,confirmed
+1097,Phuc Pham Van,ABBK,14:46:01,"October 23, 2024",False,no_json,,,,,,,,
+1122,Phuc Pham Van,ABBK,14:47:35,"October 23, 2024",False,no_json,,,,,,,,
+1134,Phuc Pham Van,ABBK,14:48:14,"October 23, 2024",True,,25.0,3.0,BID,Thanh Nguyen (NCB),NCB,2.0,Huynh Nhat Khanh (MB),confirmed
+1156,Phuc Pham Van,ABBK,14:50:05,"October 23, 2024",True,,25.0,3.0,BID,Truong Quang Hai,MB,5.0,Trinh Duc An,confirmed
+1165,Phuc Pham Van,ABBK,14:50:58,"October 23, 2024",False,no_json,,,,,,,,
+1169,Phuc Pham Van,ABBK,14:51:36,"October 23, 2024",False,no_json,,,,,,,,
+1187,Phuc Pham Van,ABBK,14:53:59,"October 23, 2024",True,,22.0,,,Minh Nguyen Huu Duc,MSB,10.0,,none
+1189,Phuc Pham Van,ABBK,14:54:15,"October 23, 2024",False,no_json,,,,,,,,
+1197,Phuc Pham Van,ABBK,14:56:42,"October 23, 2024",False,no_json,,,,,,,,
+110,Thanh Thai Nguyen,VIB,08:44:30,"October 23, 2024",False,no_json,,,,,,,,
+127,Thanh Thai Nguyen,VIB,08:49:14,"October 23, 2024",False,no_json,,,,,,,,
+136,Thanh Thai Nguyen,VIB,08:52:36,"October 23, 2024",False,no_json,,,,,,,,
+142,Thanh Thai Nguyen,VIB,08:53:49,"October 23, 2024",False,no_json,,,,,,,,
+147,Thanh Thai Nguyen,VIB,08:55:02,"October 23, 2024",True,,25.0,3.0,BID,Thanh Nguyen,NCB,2.0,Thanh Nguyen,confirmed
+156,Thanh Thai Nguyen,VIB,08:56:33,"October 23, 2024",False,no_json,,,,,,,,
+183,Thanh Thai Nguyen,VIB,08:59:34,"October 23, 2024",False,no_json,,,,,,,,
+193,Thanh Thai Nguyen,VIB,09:04:28,"October 23, 2024",False,no_json,,,,,,,,
+199,Thanh Thai Nguyen,VIB,09:05:00,"October 23, 2024",False,no_json,,,,,,,,
+202,Thanh Thai Nguyen,VIB,09:05:13,"October 23, 2024",False,no_json,,,,,,,,
+1207,Phuc Pham Van,ABBK,14:58:55,"October 23, 2024",True,,25.0,3.0,BID,Dat Duong Van,LVBT,3.0,Dat Duong Van,confirmed
+1230,Phuc Pham Van,ABBK,15:08:26,"October 23, 2024",True,,22.0,3.0,BID,Anh Nguyen Thu,MSB,2.0,Anh Nguyen Thu,confirmed
+1361,Phuc Pham Van,ABBK,16:10:05,"October 23, 2024",False,no_json,,,,,,,,
+1372,Phuc Pham Van,ABBK,16:23:29,"October 23, 2024",False,no_json,,,,,,,,
+1376,Phuc Pham Van,ABBK,16:25:24,"October 23, 2024",False,no_json,,,,,,,,
+1380,Phuc Pham Van,ABBK,16:29:13,"October 23, 2024",False,no_json,,,,,,,,
+1386,Phuc Pham Van,ABBK,16:36:17,"October 23, 2024",False,no_json,,,,,,,,
+79,Phung Huynh Kim,HDB,08:26:30,"October 23, 2024",False,no_json,,,,,,,,
+306,Phung Huynh Kim,HDB,09:30:37,"October 23, 2024",True,,94.0,3.0,BID,Nguyen Quang Huy,LVBT,3.0,Nguyen Quang Huy,confirmed
+83,Thanh Thai Nguyen,VIB,08:32:04,"October 23, 2024",False,no_json,,,,,,,,

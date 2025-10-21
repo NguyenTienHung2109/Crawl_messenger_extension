@@ -1,0 +1,38 @@
+{
+  "manifest_version": 3,
+  "name": "Refinitiv Messenger Data Extractor",
+  "version": "3.0.0",
+  "description": "Extract data from Refinitiv Messenger and send to local server",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "host_permissions": [
+    "*://messenger.refinitiv.com/*",
+    "https://ho-dev-ai:3000/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://messenger.refinitiv.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_start"
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Refinitiv Messenger Extractor"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["injected.js"],
+      "matches": ["*://messenger.refinitiv.com/*"]
+    }
+  ]
+}

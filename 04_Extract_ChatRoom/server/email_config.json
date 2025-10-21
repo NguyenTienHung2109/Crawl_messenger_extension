@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "provider": "sendgrid",
+  "sendgrid_api_key": "YOUR_SENDGRID_API_KEY_HERE",
+  "from_email": "hunghn2003@gmail.com",
+  "from_name": "Refinitiv Messenger Bot",
+  "recipient_emails": [
+    "tienhungnguyen2109@gmail.com",
+    "trongnq5@msb.com.vn"
+  ],
+  "interval_minutes": 5,
+  "subject_prefix": "Refinitiv Messenger Data Summary",
+  "include_attachment": false,
+  "max_messages_in_email": 10
+}

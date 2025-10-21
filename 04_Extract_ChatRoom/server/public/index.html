@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Refinitiv Messenger Data Monitor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        .status {
+            background: #e7f5e7;
+            padding: 10px;
+            border-radius: 4px;
+            margin-bottom: 20px;
+            border: 1px solid #c3e6c3;
+        }
+        .controls {
+            margin-bottom: 20px;
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+        input, button {
+            padding: 8px 12px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        button {
+            background: #007bff;
+            color: white;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #0056b3;
+        }
+        .data-container {
+            background: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 4px;
+            padding: 15px;
+            max-height: 600px;
+            overflow-y: auto;
+        }
+        .log-entry {
+            border-bottom: 1px solid #eee;
+            padding: 10px 0;
+            margin-bottom: 10px;
+        }
+        .log-entry:last-child {
+            border-bottom: none;
+        }
+        .timestamp {
+            color: #666;
+            font-size: 12px;
+        }
+        .data-type {
+            font-weight: bold;
+            color: #007bff;
+        }
+        .data-content {
+            background: white;
+            padding: 8px;
+            margin-top: 5px;
+            border-radius: 3px;
+            font-family: monospace;
+            white-space: pre-wrap;
+            font-size: 12px;
+        }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        .stat-card {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 4px;
+            border: 1px solid #dee2e6;
+            text-align: center;
+        }
+        .stat-value {
+            font-size: 24px;
+            font-weight: bold;
+            color: #007bff;
+        }
+        .stat-label {
+            color: #666;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📊 Refinitiv Messenger Data Monitor</h1>
+        
+        <div class="status" id="status">
+            ✅ Server is running. Extension data will appear here in real-time.
+        </div>
+
+        <div class="stats" id="stats">
+            <div class="stat-card">
+                <div class="stat-value" id="totalEntries">0</div>
+                <div class="stat-label">Total Entries</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="lastUpdate">Never</div>
+                <div class="stat-label">Last Update</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="dataTypes">0</div>
+                <div class="stat-label">Data Types</div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <input type="date" id="dateInput" />
+            <button onclick="loadData()">Load Data</button>
+            <button onclick="refreshData()">Refresh</button>
+            <button onclick="clearDisplay()">Clear Display</button>
+            <button onclick="autoRefresh()">Auto Refresh (5s)</button>
+        </div>
+
+        <div class="data-container" id="dataContainer">
+            <p>No data loaded. Select a date and click "Load Data" or wait for real-time data.</p>
+        </div>
+    </div>
+
+    <script>
+        let autoRefreshInterval;
+
+        // Set today's date as default
+        document.getElementById('dateInput').value = new Date().toISOString().split('T')[0];
+
+        async function loadData() {
+            const date = document.getElementById('dateInput').value;
+            try {
+                const response = await fetch(`/api/messenger/data?date=${date}`);
+                const data = await response.json();
+                displayData(data);
+            } catch (error) {
+                console.error('Error loading data:', error);
+                document.getElementById('dataContainer').innerHTML = `<p>Error loading data: ${error.message}</p>`;
+            }
+        }
+
+        function displayData(data) {
+            const container = document.getElementById('dataContainer');
+            
+            if (!Array.isArray(data) || data.length === 0) {
+                container.innerHTML = '<p>No data found for selected date.</p>';
+                updateStats(0, 'Never', 0);
+                return;
+            }
+
+            const entries = data.map(entry => {
+                return `
+                    <div class="log-entry">
+                        <div class="timestamp">${new Date(entry.timestamp).toLocaleString()}</div>
+                        <div class="data-type">Type: ${entry.type}</div>
+                        <div class="timestamp">URL: ${entry.url}</div>
+                        <div class="data-content">${JSON.stringify(entry.data, null, 2)}</div>
+                    </div>
+                `;
+            }).join('');
+
+            container.innerHTML = entries;
+            
+            // Update stats
+            const types = [...new Set(data.map(entry => entry.type))];
+            const lastUpdate = data.length > 0 ? new Date(data[data.length - 1].receivedAt).toLocaleTimeString() : 'Never';
+            updateStats(data.length, lastUpdate, types.length);
+
+            // Auto scroll to bottom
+            container.scrollTop = container.scrollHeight;
+        }
+
+        function updateStats(total, lastUpdate, types) {
+            document.getElementById('totalEntries').textContent = total;
+            document.getElementById('lastUpdate').textContent = lastUpdate;
+            document.getElementById('dataTypes').textContent = types;
+        }
+
+        function refreshData() {
+            loadData();
+        }
+
+        function clearDisplay() {
+            document.getElementById('dataContainer').innerHTML = '<p>Display cleared. Click "Load Data" to reload.</p>';
+            updateStats(0, 'Never', 0);
+        }
+
+        function autoRefresh() {
+            if (autoRefreshInterval) {
+                clearInterval(autoRefreshInterval);
+                autoRefreshInterval = null;
+                document.querySelector('button[onclick="autoRefresh()"]').textContent = 'Auto Refresh (5s)';
+            } else {
+                autoRefreshInterval = setInterval(loadData, 5000);
+                document.querySelector('button[onclick="autoRefresh()"]').textContent = 'Stop Auto Refresh';
+                loadData(); // Load immediately
+            }
+        }
+
+        // Load data on page load
+        window.onload = function() {
+            loadData();
+        };
+    </script>
+</body>
+</html>
